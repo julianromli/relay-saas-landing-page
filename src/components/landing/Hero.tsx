@@ -1,18 +1,39 @@
 import { ArrowRight } from "lucide-react"
-import heroPattern from "@/assets/hero-pattern.svg"
+import { DialRoot, useDialKit } from "dialkit"
+import "dialkit/styles.css"
 import { AppMockup } from "./AppMockup"
+import { HeroPattern } from "./HeroPattern"
 import { Badge, Button } from "./primitives"
 
 export function Hero() {
+  const pattern = useDialKit(
+    "Hero pattern",
+    {
+      speed: [1, 0.2, 3, 0.05],
+      shimmer: [0.45, 0, 1, 0.01],
+      glow: [0.7, 0, 1, 0.01],
+      packets: [3, 0, 8, 1],
+      drift: false,
+      accent: "#2863fa",
+      pause: false,
+    },
+    { id: "hero-pattern", persist: true, defaultCollapsed: true }
+  )
+
   return (
     <section className="relative overflow-hidden border-b border-[#e5e5e5] bg-[#f5f5f5]">
-      {/* Decorative grid + network pattern (exported from Figma) */}
-      <img
-        src={heroPattern}
-        alt=""
-        aria-hidden
-        className="pointer-events-none absolute top-0 left-1/2 w-[1440px] max-w-none -translate-x-1/2"
+      {/* Decorative grid + network pattern (exported from Figma, now live) */}
+      <HeroPattern
+        speed={pattern.speed}
+        shimmer={pattern.shimmer}
+        glow={pattern.glow}
+        packets={pattern.packets}
+        drift={pattern.drift}
+        accent={pattern.accent}
+        paused={pattern.pause}
+        className="absolute top-0 left-1/2 w-[1440px] max-w-none -translate-x-1/2"
       />
+      <DialRoot position="bottom-right" theme="dark" />
 
       <div className="relative mx-auto flex w-full max-w-[1200px] flex-col items-center gap-14 px-6 pt-24 min-[1248px]:px-0">
         {/* Copy */}

@@ -1,0 +1,152 @@
+/* Live hero pattern — animated version of the Figma "Pattern" export.
+   All tunables arrive as --hp-* variables on .hp-root (bound by DialKit).
+   Without animations the render matches the static Figma export exactly. */
+
+.hp-root {
+  --hp-speed: 1;
+  --hp-shimmer: 0.45;
+  --hp-glow: 0.7;
+  --hp-accent: #2863fa;
+  --hp-play: running;
+  pointer-events: none;
+  line-height: 0;
+}
+
+.hp-root svg {
+  display: block;
+}
+
+/* --- grid: diagonal shimmer wave -------------------------------------- */
+
+.hp-grid {
+  animation: hp-shimmer calc(7s / var(--hp-speed)) ease-in-out infinite;
+  animation-play-state: var(--hp-play);
+}
+
+@keyframes hp-shimmer {
+  0%,
+  100% {
+    opacity: calc(var(--o) * (1 - var(--hp-shimmer) * 0.85));
+  }
+  50% {
+    opacity: var(--o);
+  }
+}
+
+/* --- network nodes: slow breathing ------------------------------------- */
+
+.hp-node {
+  animation: hp-breathe calc(5s / var(--hp-speed)) ease-in-out infinite;
+  animation-play-state: var(--hp-play);
+}
+
+@keyframes hp-breathe {
+  0%,
+  100% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+/* --- accent dots: solid + expanding halo -------------------------------- */
+
+.hp-accent {
+  fill: var(--hp-accent);
+}
+
+.hp-halo {
+  fill: none;
+  stroke: var(--hp-accent);
+  stroke-width: 1;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: hp-halo calc(2.6s / var(--hp-speed)) cubic-bezier(0.23, 1, 0.32, 1)
+    infinite;
+  animation-play-state: var(--hp-play);
+}
+
+@keyframes hp-halo {
+  0% {
+    transform: scale(0.6);
+    opacity: calc(var(--hp-glow) * 0.9);
+  }
+  70% {
+    transform: scale(3.2);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(3.2);
+    opacity: 0;
+  }
+}
+
+/* --- packets: glowing dots traveling along network links ---------------- */
+
+.hp-packet {
+  display: none;
+  fill: var(--hp-accent);
+  offset-rotate: 0deg;
+}
+
+@supports (offset-path: path("M0 0")) {
+  .hp-packet {
+    display: block;
+    opacity: 0;
+    animation: hp-travel calc(var(--dur, 3s) / var(--hp-speed)) linear
+      infinite;
+    animation-delay: calc(var(--i, 0) * -1.9s / var(--hp-speed));
+    animation-play-state: var(--hp-play);
+  }
+}
+
+@keyframes hp-travel {
+  0% {
+    offset-distance: 0%;
+    opacity: 0;
+  }
+  10% {
+    opacity: var(--hp-glow);
+  }
+  90% {
+    opacity: var(--hp-glow);
+  }
+  100% {
+    offset-distance: 100%;
+    opacity: 0;
+  }
+}
+
+/* --- optional slow drift of the whole pattern --------------------------- */
+
+.hp-drift svg {
+  animation: hp-drift calc(48s / var(--hp-speed)) ease-in-out infinite
+    alternate;
+  animation-play-state: var(--hp-play);
+}
+
+@keyframes hp-drift {
+  from {
+    transform: translate3d(-14px, -10px, 0);
+  }
+  to {
+    transform: translate3d(14px, 10px, 0);
+  }
+}
+
+/* --- accessibility ------------------------------------------------------ */
+
+@media (prefers-reduced-motion: reduce) {
+  .hp-grid,
+  .hp-node,
+  .hp-halo,
+  .hp-packet,
+  .hp-drift svg {
+    animation: none;
+  }
+
+  .hp-packet {
+    display: none;
+  }
+}
