@@ -1,0 +1,1621 @@
+{
+ "t": "F",
+ "n": "Pricing",
+ "w": 1440,
+ "h": 763,
+ "lay": "col",
+ "pad": [
+  96,
+  120,
+  96,
+  120
+ ],
+ "gap": 48,
+ "ai": "CENTER",
+ "wfit": 1,
+ "fills": [
+  {
+   "s": "#f5f5f5"
+  }
+ ],
+ "stroke": [
+  {
+   "s": "#e5e5e5"
+  }
+ ],
+ "c": [
+  {
+   "t": "F",
+   "n": "Pattern",
+   "w": 1440,
+   "h": 763,
+   "c": [
+    {
+     "t": "F",
+     "n": "Grid",
+     "w": 1440,
+     "h": 763,
+     "pattern": {
+      "count": 147,
+      "sample": {
+       "t": "LINE",
+       "n": "Line",
+       "w": 80,
+       "h": 0,
+       "stroke": [
+        {
+         "s": "#09090b",
+         "o": 0.1
+        }
+       ],
+       "sa": "CENTER",
+       "op": 0.78
+      }
+     }
+    },
+    {
+     "t": "F",
+     "n": "Nodes",
+     "w": 1440,
+     "h": 763,
+     "c": [
+      {
+       "t": "LINE",
+       "n": "Line",
+       "w": 80,
+       "h": 0,
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ],
+       "sa": "CENTER"
+      },
+      {
+       "t": "LINE",
+       "n": "Line",
+       "w": 80,
+       "h": 0,
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ],
+       "sa": "CENTER",
+       "rot": -90
+      },
+      {
+       "t": "ELLIPSE",
+       "n": "Ellipse",
+       "w": 28,
+       "h": 28,
+       "fills": [
+        {
+         "s": "#f5f5f5"
+        }
+       ],
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ]
+      },
+      {
+       "t": "ELLIPSE",
+       "n": "Ellipse",
+       "w": 28,
+       "h": 28,
+       "fills": [
+        {
+         "s": "#f5f5f5"
+        }
+       ],
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ]
+      },
+      {
+       "t": "ELLIPSE",
+       "n": "Ellipse",
+       "w": 28,
+       "h": 28,
+       "fills": [
+        {
+         "s": "#f5f5f5"
+        }
+       ],
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ]
+      },
+      {
+       "t": "LINE",
+       "n": "Line",
+       "w": 160,
+       "h": 0,
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ],
+       "sa": "CENTER",
+       "rot": -90
+      },
+      {
+       "t": "LINE",
+       "n": "Line",
+       "w": 80,
+       "h": 0,
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ],
+       "sa": "CENTER"
+      },
+      {
+       "t": "ELLIPSE",
+       "n": "Ellipse",
+       "w": 28,
+       "h": 28,
+       "fills": [
+        {
+         "s": "#f5f5f5"
+        }
+       ],
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ]
+      },
+      {
+       "t": "ELLIPSE",
+       "n": "Ellipse",
+       "w": 28,
+       "h": 28,
+       "fills": [
+        {
+         "s": "#f5f5f5"
+        }
+       ],
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ]
+      },
+      {
+       "t": "ELLIPSE",
+       "n": "Ellipse",
+       "w": 28,
+       "h": 28,
+       "fills": [
+        {
+         "s": "#f5f5f5"
+        }
+       ],
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ]
+      },
+      {
+       "t": "ELLIPSE",
+       "n": "Ellipse",
+       "w": 10,
+       "h": 10,
+       "fills": [
+        {
+         "s": "#2863fa"
+        }
+       ]
+      },
+      {
+       "t": "ELLIPSE",
+       "n": "Ellipse",
+       "w": 10,
+       "h": 10,
+       "fills": [
+        {
+         "s": "#2863fa"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "F",
+     "n": "Guides",
+     "w": 1440,
+     "h": 763,
+     "c": [
+      {
+       "t": "LINE",
+       "n": "Line",
+       "w": 747,
+       "h": 0,
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ],
+       "sa": "CENTER",
+       "rot": -90
+      },
+      {
+       "t": "LINE",
+       "n": "Line",
+       "w": 747,
+       "h": 0,
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ],
+       "sa": "CENTER",
+       "rot": -90
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "F",
+   "n": "Section header",
+   "w": 567,
+   "h": 132,
+   "lay": "col",
+   "gap": 16,
+   "ai": "CENTER",
+   "wfit": 1,
+   "hfit": 1,
+   "c": [
+    {
+     "t": "T",
+     "n": "Pricing",
+     "w": 46,
+     "h": 20,
+     "fills": [
+      {
+       "s": "#737373"
+      }
+     ],
+     "text": "Pricing",
+     "size": 14,
+     "font": "Geist",
+     "fw": "Medium",
+     "lh": 20
+    },
+    {
+     "t": "T",
+     "n": "Start free. Pay as you grow.",
+     "w": 567,
+     "h": 56,
+     "fills": [
+      {
+       "s": "#09090b"
+      }
+     ],
+     "text": "Start free. Pay as you grow.",
+     "size": 48,
+     "font": "Geist Serif",
+     "fw": "Regular",
+     "lh": 56,
+     "ls": "-1.5%",
+     "align": "CENTER"
+    },
+    {
+     "t": "T",
+     "n": "All plans include unlimited seats and dashboards.",
+     "w": 520,
+     "h": 24,
+     "fills": [
+      {
+       "s": "#737373"
+      }
+     ],
+     "text": "All plans include unlimited seats and dashboards.",
+     "size": 16,
+     "font": "Geist",
+     "fw": "Regular",
+     "lh": 24,
+     "align": "CENTER"
+    }
+   ]
+  },
+  {
+   "t": "F",
+   "n": "Plans",
+   "w": 1200,
+   "h": 390,
+   "lay": "row",
+   "gap": 16,
+   "hfit": 1,
+   "c": [
+    {
+     "t": "F",
+     "n": "Plan / Starter",
+     "w": 389,
+     "h": 390,
+     "lay": "col",
+     "pad": [
+      28,
+      28,
+      28,
+      28
+     ],
+     "gap": 24,
+     "grow": 1,
+     "fills": [
+      {
+       "s": "#ffffff"
+      }
+     ],
+     "stroke": [
+      {
+       "s": "#e5e5e5"
+      }
+     ],
+     "r": 12,
+     "fx": [
+      {
+       "shadow": [
+        0,
+        1
+       ],
+       "blur": 2,
+       "c": "#000000",
+       "o": 0.05
+      }
+     ],
+     "c": [
+      {
+       "t": "F",
+       "n": "Top",
+       "w": 331,
+       "h": 52,
+       "lay": "col",
+       "gap": 8,
+       "wfit": 1,
+       "c": [
+        {
+         "t": "F",
+         "n": "Name row",
+         "w": 331,
+         "h": 24,
+         "lay": "row",
+         "just": "SPACE_BETWEEN",
+         "ai": "CENTER",
+         "c": [
+          {
+           "t": "T",
+           "n": "Starter",
+           "w": 55,
+           "h": 16,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "Starter",
+           "size": 16,
+           "font": "Geist",
+           "fw": "SemiBold"
+          }
+         ]
+        },
+        {
+         "t": "T",
+         "n": "For side projects and early teams.",
+         "w": 216,
+         "h": 20,
+         "fills": [
+          {
+           "s": "#737373"
+          }
+         ],
+         "text": "For side projects and early teams.",
+         "size": 14,
+         "font": "Geist",
+         "fw": "Regular",
+         "lh": 20
+        }
+       ]
+      },
+      {
+       "t": "F",
+       "n": "Price",
+       "w": 100,
+       "h": 36,
+       "lay": "row",
+       "gap": 4,
+       "ai": "BASELINE",
+       "wfit": 1,
+       "hfit": 1,
+       "c": [
+        {
+         "t": "T",
+         "n": "$0",
+         "w": 48,
+         "h": 36,
+         "fills": [
+          {
+           "s": "#09090b"
+          }
+         ],
+         "text": "$0",
+         "size": 36,
+         "font": "Geist",
+         "fw": "SemiBold",
+         "ls": "-2%"
+        },
+        {
+         "t": "T",
+         "n": "/month",
+         "w": 48,
+         "h": 20,
+         "fills": [
+          {
+           "s": "#737373"
+          }
+         ],
+         "text": "/month",
+         "size": 14,
+         "font": "Geist",
+         "fw": "Regular",
+         "lh": 20
+        }
+       ]
+      },
+      {
+       "t": "I",
+       "n": "Button / Start for free",
+       "w": 331,
+       "h": 36,
+       "lay": "row",
+       "just": "CENTER",
+       "ai": "CENTER",
+       "hfit": 1,
+       "c": [
+        {
+         "t": "I",
+         "n": ".button_iconnone_lg",
+         "w": 331,
+         "h": 36,
+         "lay": "row",
+         "pad": [
+          0,
+          12,
+          0,
+          12
+         ],
+         "gap": 6,
+         "just": "CENTER",
+         "ai": "CENTER",
+         "grow": 1,
+         "fills": [
+          {
+           "s": "#f5f5f5"
+          }
+         ],
+         "r": 8,
+         "c": [
+          {
+           "t": "T",
+           "n": "button-lg",
+           "w": 85,
+           "h": 14,
+           "fills": [
+            {
+             "s": "#171717"
+            }
+           ],
+           "text": "Start for free",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Medium"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "F",
+       "n": "Features",
+       "w": 331,
+       "h": 105,
+       "lay": "col",
+       "pad": [
+        24,
+        0,
+        0,
+        0
+       ],
+       "gap": 10,
+       "wfit": 1,
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ],
+       "c": [
+        {
+         "t": "F",
+         "n": "Item",
+         "w": 162,
+         "h": 20,
+         "lay": "row",
+         "gap": 8,
+         "ai": "CENTER",
+         "wfit": 1,
+         "hfit": 1,
+         "c": [
+          {
+           "t": "I",
+           "n": "Lucide / check",
+           "w": 16,
+           "h": 16,
+           "c": [
+            {
+             "t": "VECTOR",
+             "n": "Vector",
+             "w": 12,
+             "h": 8.7,
+             "fills": [
+              {
+               "s": "#09090b"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "t": "T",
+           "n": "10k events per month",
+           "w": 138,
+           "h": 20,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "10k events per month",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Regular",
+           "lh": 20
+          }
+         ]
+        },
+        {
+         "t": "F",
+         "n": "Item",
+         "w": 163,
+         "h": 20,
+         "lay": "row",
+         "gap": 8,
+         "ai": "CENTER",
+         "wfit": 1,
+         "hfit": 1,
+         "c": [
+          {
+           "t": "I",
+           "n": "Lucide / check",
+           "w": 16,
+           "h": 16,
+           "c": [
+            {
+             "t": "VECTOR",
+             "n": "Vector",
+             "w": 12,
+             "h": 8.7,
+             "fills": [
+              {
+               "s": "#09090b"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "t": "T",
+           "n": "Funnels and retention",
+           "w": 139,
+           "h": 20,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "Funnels and retention",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Regular",
+           "lh": 20
+          }
+         ]
+        },
+        {
+         "t": "F",
+         "n": "Item",
+         "w": 140,
+         "h": 20,
+         "lay": "row",
+         "gap": 8,
+         "ai": "CENTER",
+         "wfit": 1,
+         "hfit": 1,
+         "c": [
+          {
+           "t": "I",
+           "n": "Lucide / check",
+           "w": 16,
+           "h": 16,
+           "c": [
+            {
+             "t": "VECTOR",
+             "n": "Vector",
+             "w": 12,
+             "h": 8.7,
+             "fills": [
+              {
+               "s": "#09090b"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "t": "T",
+           "n": "7-day data history",
+           "w": 116,
+           "h": 20,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "7-day data history",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Regular",
+           "lh": 20
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "F",
+     "n": "Plan / Growth",
+     "w": 390,
+     "h": 390,
+     "lay": "col",
+     "pad": [
+      28,
+      28,
+      28,
+      28
+     ],
+     "gap": 24,
+     "grow": 1,
+     "fills": [
+      {
+       "s": "#ffffff"
+      }
+     ],
+     "stroke": [
+      {
+       "s": "#2863fa"
+      }
+     ],
+     "sw": 1.5,
+     "r": 12,
+     "fx": [
+      {
+       "shadow": [
+        0,
+        4
+       ],
+       "blur": 6,
+       "spread": -4,
+       "c": "#000000",
+       "o": 0.1
+      },
+      {
+       "shadow": [
+        0,
+        10
+       ],
+       "blur": 15,
+       "spread": -3,
+       "c": "#000000",
+       "o": 0.1
+      }
+     ],
+     "c": [
+      {
+       "t": "F",
+       "n": "Top",
+       "w": 331,
+       "h": 52,
+       "lay": "col",
+       "gap": 8,
+       "wfit": 1,
+       "c": [
+        {
+         "t": "F",
+         "n": "Name row",
+         "w": 331,
+         "h": 24,
+         "lay": "row",
+         "just": "SPACE_BETWEEN",
+         "ai": "CENTER",
+         "c": [
+          {
+           "t": "T",
+           "n": "Growth",
+           "w": 57,
+           "h": 16,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "Growth",
+           "size": 16,
+           "font": "Geist",
+           "fw": "SemiBold"
+          },
+          {
+           "t": "I",
+           "n": "Badge / Most popular",
+           "w": 91,
+           "h": 20,
+           "lay": "row",
+           "just": "CENTER",
+           "ai": "CENTER",
+           "wfit": 1,
+           "hfit": 1,
+           "c": [
+            {
+             "t": "I",
+             "n": ".badge_iconnone_default",
+             "w": 91,
+             "h": 20,
+             "lay": "row",
+             "pad": [
+              0,
+              8,
+              0,
+              8
+             ],
+             "gap": 4,
+             "just": "CENTER",
+             "ai": "CENTER",
+             "wfit": 1,
+             "fills": [
+              {
+               "s": "#f5f5f5"
+              }
+             ],
+             "r": 26,
+             "c": [
+              {
+               "t": "T",
+               "n": "badge",
+               "w": 75,
+               "h": 12,
+               "fills": [
+                {
+                 "s": "#171717"
+                }
+               ],
+               "text": "Most popular",
+               "size": 12,
+               "font": "Geist",
+               "fw": "Medium"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "t": "T",
+         "n": "For teams that ship every week.",
+         "w": 205,
+         "h": 20,
+         "fills": [
+          {
+           "s": "#737373"
+          }
+         ],
+         "text": "For teams that ship every week.",
+         "size": 14,
+         "font": "Geist",
+         "fw": "Regular",
+         "lh": 20
+        }
+       ]
+      },
+      {
+       "t": "F",
+       "n": "Price",
+       "w": 121,
+       "h": 36,
+       "lay": "row",
+       "gap": 4,
+       "ai": "BASELINE",
+       "wfit": 1,
+       "hfit": 1,
+       "c": [
+        {
+         "t": "T",
+         "n": "$49",
+         "w": 69,
+         "h": 36,
+         "fills": [
+          {
+           "s": "#09090b"
+          }
+         ],
+         "text": "$49",
+         "size": 36,
+         "font": "Geist",
+         "fw": "SemiBold",
+         "ls": "-2%"
+        },
+        {
+         "t": "T",
+         "n": "/month",
+         "w": 48,
+         "h": 20,
+         "fills": [
+          {
+           "s": "#737373"
+          }
+         ],
+         "text": "/month",
+         "size": 14,
+         "font": "Geist",
+         "fw": "Regular",
+         "lh": 20
+        }
+       ]
+      },
+      {
+       "t": "I",
+       "n": "Button / Start free trial",
+       "w": 331,
+       "h": 36,
+       "lay": "row",
+       "just": "CENTER",
+       "ai": "CENTER",
+       "hfit": 1,
+       "c": [
+        {
+         "t": "I",
+         "n": ".button_iconnone_lg",
+         "w": 331,
+         "h": 36,
+         "lay": "row",
+         "pad": [
+          0,
+          12,
+          0,
+          12
+         ],
+         "gap": 6,
+         "just": "CENTER",
+         "ai": "CENTER",
+         "grow": 1,
+         "fills": [
+          {
+           "s": "#2863fa"
+          },
+          {
+           "grad": "GRADIENT_LINEAR",
+           "stops": [
+            {
+             "c": "#ffffff",
+             "pos": 0,
+             "o": 0.16
+            },
+            {
+             "c": "#ffffff",
+             "pos": 100,
+             "o": 0
+            }
+           ],
+           "angle": 0
+          }
+         ],
+         "stroke": [
+          {
+           "s": "#000000",
+           "o": 0.1
+          }
+         ],
+         "r": 8,
+         "fx": [
+          {
+           "shadow": [
+            0,
+            1
+           ],
+           "blur": 2,
+           "c": "#2863fa",
+           "o": 0.24
+          },
+          {
+           "e": "INNER_SHADOW"
+          }
+         ],
+         "c": [
+          {
+           "t": "T",
+           "n": "button-lg",
+           "w": 93,
+           "h": 14,
+           "fills": [
+            {
+             "s": "#ffffff"
+            }
+           ],
+           "text": "Start free trial",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Medium"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "F",
+       "n": "Features",
+       "w": 331,
+       "h": 135,
+       "lay": "col",
+       "pad": [
+        24,
+        0,
+        0,
+        0
+       ],
+       "gap": 10,
+       "wfit": 1,
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ],
+       "c": [
+        {
+         "t": "F",
+         "n": "Item",
+         "w": 157,
+         "h": 20,
+         "lay": "row",
+         "gap": 8,
+         "ai": "CENTER",
+         "wfit": 1,
+         "hfit": 1,
+         "c": [
+          {
+           "t": "I",
+           "n": "Lucide / check",
+           "w": 16,
+           "h": 16,
+           "c": [
+            {
+             "t": "VECTOR",
+             "n": "Vector",
+             "w": 12,
+             "h": 8.7,
+             "fills": [
+              {
+               "s": "#09090b"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "t": "T",
+           "n": "1M events per month",
+           "w": 133,
+           "h": 20,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "1M events per month",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Regular",
+           "lh": 20
+          }
+         ]
+        },
+        {
+         "t": "F",
+         "n": "Item",
+         "w": 156,
+         "h": 20,
+         "lay": "row",
+         "gap": 8,
+         "ai": "CENTER",
+         "wfit": 1,
+         "hfit": 1,
+         "c": [
+          {
+           "t": "I",
+           "n": "Lucide / check",
+           "w": 16,
+           "h": 16,
+           "c": [
+            {
+             "t": "VECTOR",
+             "n": "Vector",
+             "w": 12,
+             "h": 8.7,
+             "fills": [
+              {
+               "s": "#09090b"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "t": "T",
+           "n": "Everything in Starter",
+           "w": 132,
+           "h": 20,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "Everything in Starter",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Regular",
+           "lh": 20
+          }
+         ]
+        },
+        {
+         "t": "F",
+         "n": "Item",
+         "w": 161,
+         "h": 20,
+         "lay": "row",
+         "gap": 8,
+         "ai": "CENTER",
+         "wfit": 1,
+         "hfit": 1,
+         "c": [
+          {
+           "t": "I",
+           "n": "Lucide / check",
+           "w": 16,
+           "h": 16,
+           "c": [
+            {
+             "t": "VECTOR",
+             "n": "Vector",
+             "w": 12,
+             "h": 8.7,
+             "fills": [
+              {
+               "s": "#09090b"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "t": "T",
+           "n": "Alerts and live events",
+           "w": 137,
+           "h": 20,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "Alerts and live events",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Regular",
+           "lh": 20
+          }
+         ]
+        },
+        {
+         "t": "F",
+         "n": "Item",
+         "w": 164,
+         "h": 20,
+         "lay": "row",
+         "gap": 8,
+         "ai": "CENTER",
+         "wfit": 1,
+         "hfit": 1,
+         "c": [
+          {
+           "t": "I",
+           "n": "Lucide / check",
+           "w": 16,
+           "h": 16,
+           "c": [
+            {
+             "t": "VECTOR",
+             "n": "Vector",
+             "w": 12,
+             "h": 8.7,
+             "fills": [
+              {
+               "s": "#09090b"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "t": "T",
+           "n": "12-month data history",
+           "w": 140,
+           "h": 20,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "12-month data history",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Regular",
+           "lh": 20
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "F",
+     "n": "Plan / Scale",
+     "w": 389,
+     "h": 390,
+     "lay": "col",
+     "pad": [
+      28,
+      28,
+      28,
+      28
+     ],
+     "gap": 24,
+     "grow": 1,
+     "fills": [
+      {
+       "s": "#ffffff"
+      }
+     ],
+     "stroke": [
+      {
+       "s": "#e5e5e5"
+      }
+     ],
+     "r": 12,
+     "fx": [
+      {
+       "shadow": [
+        0,
+        1
+       ],
+       "blur": 2,
+       "c": "#000000",
+       "o": 0.05
+      }
+     ],
+     "c": [
+      {
+       "t": "F",
+       "n": "Top",
+       "w": 331,
+       "h": 52,
+       "lay": "col",
+       "gap": 8,
+       "wfit": 1,
+       "c": [
+        {
+         "t": "F",
+         "n": "Name row",
+         "w": 331,
+         "h": 24,
+         "lay": "row",
+         "just": "SPACE_BETWEEN",
+         "ai": "CENTER",
+         "c": [
+          {
+           "t": "T",
+           "n": "Scale",
+           "w": 44,
+           "h": 16,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "Scale",
+           "size": 16,
+           "font": "Geist",
+           "fw": "SemiBold"
+          }
+         ]
+        },
+        {
+         "t": "T",
+         "n": "For companies with large data needs.",
+         "w": 239,
+         "h": 20,
+         "fills": [
+          {
+           "s": "#737373"
+          }
+         ],
+         "text": "For companies with large data needs.",
+         "size": 14,
+         "font": "Geist",
+         "fw": "Regular",
+         "lh": 20
+        }
+       ]
+      },
+      {
+       "t": "F",
+       "n": "Price",
+       "w": 131,
+       "h": 36,
+       "lay": "row",
+       "gap": 4,
+       "ai": "BASELINE",
+       "wfit": 1,
+       "hfit": 1,
+       "c": [
+        {
+         "t": "T",
+         "n": "Custom",
+         "w": 131,
+         "h": 36,
+         "fills": [
+          {
+           "s": "#09090b"
+          }
+         ],
+         "text": "Custom",
+         "size": 36,
+         "font": "Geist",
+         "fw": "SemiBold",
+         "ls": "-2%"
+        }
+       ]
+      },
+      {
+       "t": "I",
+       "n": "Button / Contact sales",
+       "w": 331,
+       "h": 36,
+       "lay": "row",
+       "just": "CENTER",
+       "ai": "CENTER",
+       "hfit": 1,
+       "c": [
+        {
+         "t": "I",
+         "n": ".button_iconright_lg",
+         "w": 331,
+         "h": 36,
+         "lay": "row",
+         "pad": [
+          0,
+          12,
+          0,
+          10
+         ],
+         "gap": 6,
+         "just": "CENTER",
+         "ai": "CENTER",
+         "grow": 1,
+         "fills": [
+          {
+           "s": "#f5f5f5"
+          }
+         ],
+         "r": 8,
+         "c": [
+          {
+           "t": "T",
+           "n": "button-lg",
+           "w": 91,
+           "h": 14,
+           "fills": [
+            {
+             "s": "#171717"
+            }
+           ],
+           "text": "Contact sales",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Medium"
+          },
+          {
+           "t": "I",
+           "n": "Lucide / chevron-right",
+           "w": 16,
+           "h": 16,
+           "c": []
+          },
+          {
+           "t": "I",
+           "n": "Kbd",
+           "w": 20,
+           "h": 20,
+           "lay": "row",
+           "pad": [
+            0,
+            4,
+            0,
+            4
+           ],
+           "gap": 4,
+           "just": "CENTER",
+           "ai": "CENTER",
+           "wfit": 1,
+           "fills": [
+            {
+             "s": "#f5f5f5"
+            }
+           ],
+           "r": 8,
+           "c": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "F",
+       "n": "Features",
+       "w": 331,
+       "h": 135,
+       "lay": "col",
+       "pad": [
+        24,
+        0,
+        0,
+        0
+       ],
+       "gap": 10,
+       "wfit": 1,
+       "stroke": [
+        {
+         "s": "#e5e5e5"
+        }
+       ],
+       "c": [
+        {
+         "t": "F",
+         "n": "Item",
+         "w": 132,
+         "h": 20,
+         "lay": "row",
+         "gap": 8,
+         "ai": "CENTER",
+         "wfit": 1,
+         "hfit": 1,
+         "c": [
+          {
+           "t": "I",
+           "n": "Lucide / check",
+           "w": 16,
+           "h": 16,
+           "c": [
+            {
+             "t": "VECTOR",
+             "n": "Vector",
+             "w": 12,
+             "h": 8.7,
+             "fills": [
+              {
+               "s": "#09090b"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "t": "T",
+           "n": "Unlimited events",
+           "w": 108,
+           "h": 20,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "Unlimited events",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Regular",
+           "lh": 20
+          }
+         ]
+        },
+        {
+         "t": "F",
+         "n": "Item",
+         "w": 158,
+         "h": 20,
+         "lay": "row",
+         "gap": 8,
+         "ai": "CENTER",
+         "wfit": 1,
+         "hfit": 1,
+         "c": [
+          {
+           "t": "I",
+           "n": "Lucide / check",
+           "w": 16,
+           "h": 16,
+           "c": [
+            {
+             "t": "VECTOR",
+             "n": "Vector",
+             "w": 12,
+             "h": 8.7,
+             "fills": [
+              {
+               "s": "#09090b"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "t": "T",
+           "n": "Everything in Growth",
+           "w": 134,
+           "h": 20,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "Everything in Growth",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Regular",
+           "lh": 20
+          }
+         ]
+        },
+        {
+         "t": "F",
+         "n": "Item",
+         "w": 129,
+         "h": 20,
+         "lay": "row",
+         "gap": 8,
+         "ai": "CENTER",
+         "wfit": 1,
+         "hfit": 1,
+         "c": [
+          {
+           "t": "I",
+           "n": "Lucide / check",
+           "w": 16,
+           "h": 16,
+           "c": [
+            {
+             "t": "VECTOR",
+             "n": "Vector",
+             "w": 12,
+             "h": 8.7,
+             "fills": [
+              {
+               "s": "#09090b"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "t": "T",
+           "n": "Warehouse sync",
+           "w": 105,
+           "h": 20,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "Warehouse sync",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Regular",
+           "lh": 20
+          }
+         ]
+        },
+        {
+         "t": "F",
+         "n": "Item",
+         "w": 146,
+         "h": 20,
+         "lay": "row",
+         "gap": 8,
+         "ai": "CENTER",
+         "wfit": 1,
+         "hfit": 1,
+         "c": [
+          {
+           "t": "I",
+           "n": "Lucide / check",
+           "w": 16,
+           "h": 16,
+           "c": [
+            {
+             "t": "VECTOR",
+             "n": "Vector",
+             "w": 12,
+             "h": 8.7,
+             "fills": [
+              {
+               "s": "#09090b"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "t": "T",
+           "n": "SSO and audit logs",
+           "w": 122,
+           "h": 20,
+           "fills": [
+            {
+             "s": "#09090b"
+            }
+           ],
+           "text": "SSO and audit logs",
+           "size": 14,
+           "font": "Geist",
+           "fw": "Regular",
+           "lh": 20
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

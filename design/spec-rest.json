@@ -1,0 +1,5415 @@
+{
+ "social": {
+  "t": "F",
+  "n": "Social proof",
+  "w": 1440,
+  "h": 191,
+  "lay": "col",
+  "pad": [
+   56,
+   120,
+   56,
+   120
+  ],
+  "gap": 24,
+  "ai": "CENTER",
+  "wfit": 1,
+  "stroke": [
+   {
+    "s": "#e5e5e5"
+   }
+  ],
+  "c": [
+   {
+    "t": "F",
+    "n": "Pattern",
+    "w": 1440,
+    "h": 191,
+    "c": [
+     {
+      "t": "F",
+      "n": "Guides",
+      "w": 1440,
+      "h": 191,
+      "c": [
+       {
+        "t": "LINE",
+        "n": "Line",
+        "w": 177,
+        "h": 0,
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ],
+        "sa": "CENTER",
+        "rot": -90
+       },
+       {
+        "t": "LINE",
+        "n": "Line",
+        "w": 177,
+        "h": 0,
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ],
+        "sa": "CENTER",
+        "rot": -90
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "t": "T",
+    "n": "Trusted by 2,000+ product teams",
+    "w": 220,
+    "h": 20,
+    "fills": [
+     {
+      "s": "#737373"
+     }
+    ],
+    "text": "Trusted by 2,000+ product teams",
+    "size": 14,
+    "font": "Geist",
+    "fw": "Medium",
+    "lh": 20
+   },
+   {
+    "t": "F",
+    "n": "Logos",
+    "w": 1200,
+    "h": 34,
+    "lay": "row",
+    "pad": [
+     0,
+     40,
+     0,
+     40
+    ],
+    "just": "SPACE_BETWEEN",
+    "ai": "CENTER",
+    "hfit": 1,
+    "c": [
+     {
+      "t": "F",
+      "n": "Logo / Logoipsum 1",
+      "w": 168,
+      "h": 28,
+      "c": [
+       {
+        "t": "VECTOR",
+        "n": "Vector",
+        "w": 121.5,
+        "h": 14.4,
+        "fills": [
+         {
+          "s": "#09090b",
+          "o": 0.4
+         }
+        ]
+       },
+       {
+        "t": "VECTOR",
+        "n": "Vector",
+        "w": 36.4,
+        "h": 28,
+        "fills": [
+         {
+          "s": "#09090b",
+          "o": 0.4
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "t": "F",
+      "n": "Logo / Logoipsum 2",
+      "w": 212.1,
+      "h": 28,
+      "c": [
+       {
+        "t": "VECTOR",
+        "n": "Vector",
+        "w": 140.4,
+        "h": 16.6,
+        "fills": [
+         {
+          "s": "#09090b",
+          "o": 0.4
+         }
+        ]
+       },
+       {
+        "t": "VECTOR",
+        "n": "Vector",
+        "w": 61.6,
+        "h": 28,
+        "fills": [
+         {
+          "s": "#09090b",
+          "o": 0.4
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "t": "F",
+      "n": "Logo / Logoipsum 5",
+      "w": 118.3,
+      "h": 28,
+      "c": [
+       {
+        "t": "VECTOR",
+        "n": "Vector",
+        "w": 117.8,
+        "h": 28,
+        "fills": [
+         {
+          "s": "#09090b",
+          "o": 0.4
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "t": "F",
+      "n": "Logo / Logoipsum 3",
+      "w": 187.6,
+      "h": 28,
+      "c": [
+       {
+        "t": "VECTOR",
+        "n": "Vector",
+        "w": 149.4,
+        "h": 14.1,
+        "fills": [
+         {
+          "s": "#09090b",
+          "o": 0.4
+         }
+        ]
+       },
+       {
+        "t": "VECTOR",
+        "n": "Vector",
+        "w": 21.3,
+        "h": 4.9,
+        "fills": [
+         {
+          "s": "#09090b",
+          "o": 0.4
+         }
+        ]
+       },
+       {
+        "t": "VECTOR",
+        "n": "Vector",
+        "w": 27.9,
+        "h": 4.9,
+        "fills": [
+         {
+          "s": "#09090b",
+          "o": 0.4
+         }
+        ]
+       },
+       {
+        "t": "VECTOR",
+        "n": "Vector",
+        "w": 28,
+        "h": 4.9,
+        "fills": [
+         {
+          "s": "#09090b",
+          "o": 0.4
+         }
+        ]
+       },
+       {
+        "t": "VECTOR",
+        "n": "Vector",
+        "w": 28,
+        "h": 4.9,
+        "fills": [
+         {
+          "s": "#09090b",
+          "o": 0.4
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "t": "F",
+      "n": "Logo / Logoipsum 4",
+      "w": 166.5,
+      "h": 34,
+      "c": [
+       {
+        "t": "VECTOR",
+        "n": "Vector",
+        "w": 38.2,
+        "h": 27.8,
+        "fills": [
+         {
+          "s": "#09090b",
+          "o": 0.4
+         }
+        ]
+       },
+       {
+        "t": "VECTOR",
+        "n": "Vector",
+        "w": 122.7,
+        "h": 23.6,
+        "fills": [
+         {
+          "s": "#09090b",
+          "o": 0.4
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "features": {
+  "t": "F",
+  "n": "Features",
+  "w": 1440,
+  "h": 1011,
+  "lay": "col",
+  "pad": [
+   96,
+   120,
+   96,
+   120
+  ],
+  "gap": 48,
+  "ai": "CENTER",
+  "wfit": 1,
+  "fills": [
+   {
+    "s": "#ffffff"
+   }
+  ],
+  "stroke": [
+   {
+    "s": "#e5e5e5"
+   }
+  ],
+  "c": [
+   {
+    "t": "F",
+    "n": "Pattern",
+    "w": 1440,
+    "h": 1011,
+    "c": [
+     {
+      "t": "F",
+      "n": "Guides",
+      "w": 1440,
+      "h": 1011,
+      "c": [
+       {
+        "t": "LINE",
+        "n": "Line",
+        "w": 1003,
+        "h": 0,
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ],
+        "sa": "CENTER",
+        "rot": -90
+       },
+       {
+        "t": "LINE",
+        "n": "Line",
+        "w": 1003,
+        "h": 0,
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ],
+        "sa": "CENTER",
+        "rot": -90
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "t": "F",
+    "n": "Section header",
+    "w": 616,
+    "h": 128,
+    "lay": "col",
+    "gap": 16,
+    "ai": "CENTER",
+    "wfit": 1,
+    "hfit": 1,
+    "c": [
+     {
+      "t": "T",
+      "n": "Every answer, one click away",
+      "w": 616,
+      "h": 56,
+      "fills": [
+       {
+        "s": "#09090b"
+       }
+      ],
+      "text": "Every answer, one click away",
+      "size": 48,
+      "font": "Geist Serif",
+      "fw": "Regular",
+      "lh": 56,
+      "ls": "-1.5%",
+      "align": "CENTER"
+     },
+     {
+      "t": "T",
+      "n": "Relay tracks the full user path, from first visit to paid plan. Your team asks a question and gets a chart, not a ticket.",
+      "w": 600,
+      "h": 56,
+      "fills": [
+       {
+        "s": "#737373"
+       }
+      ],
+      "text": "Relay tracks the full user path, from first visit to paid plan. Your team asks a question and gets a chart, not a ticket.",
+      "size": 18,
+      "font": "Geist",
+      "fw": "Regular",
+      "lh": 28,
+      "align": "CENTER"
+     }
+    ]
+   },
+   {
+    "t": "F",
+    "n": "Tabs",
+    "w": 298,
+    "h": 46,
+    "lay": "row",
+    "pad": [
+     4,
+     4,
+     4,
+     4
+    ],
+    "gap": 4,
+    "wfit": 1,
+    "hfit": 1,
+    "fills": [
+     {
+      "s": "#ffffff"
+     }
+    ],
+    "stroke": [
+     {
+      "s": "#e5e5e5"
+     }
+    ],
+    "r": 999,
+    "c": [
+     {
+      "t": "F",
+      "n": "Tab / Analyze",
+      "w": 92,
+      "h": 36,
+      "lay": "row",
+      "pad": [
+       8,
+       20,
+       8,
+       20
+      ],
+      "wfit": 1,
+      "hfit": 1,
+      "fills": [
+       {
+        "s": "#2863fa"
+       }
+      ],
+      "r": 999,
+      "c": [
+       {
+        "t": "T",
+        "n": "Analyze",
+        "w": 52,
+        "h": 20,
+        "fills": [
+         {
+          "s": "#ffffff"
+         }
+        ],
+        "text": "Analyze",
+        "size": 14,
+        "font": "Geist",
+        "fw": "Medium",
+        "lh": 20
+       }
+      ]
+     },
+     {
+      "t": "F",
+      "n": "Tab / Retain",
+      "w": 83,
+      "h": 36,
+      "lay": "row",
+      "pad": [
+       8,
+       20,
+       8,
+       20
+      ],
+      "wfit": 1,
+      "hfit": 1,
+      "r": 999,
+      "c": [
+       {
+        "t": "T",
+        "n": "Retain",
+        "w": 43,
+        "h": 20,
+        "fills": [
+         {
+          "s": "#09090b"
+         }
+        ],
+        "text": "Retain",
+        "size": 14,
+        "font": "Geist",
+        "fw": "Medium",
+        "lh": 20
+       }
+      ]
+     },
+     {
+      "t": "F",
+      "n": "Tab / Automate",
+      "w": 105,
+      "h": 36,
+      "lay": "row",
+      "pad": [
+       8,
+       20,
+       8,
+       20
+      ],
+      "wfit": 1,
+      "hfit": 1,
+      "r": 999,
+      "c": [
+       {
+        "t": "T",
+        "n": "Automate",
+        "w": 65,
+        "h": 20,
+        "fills": [
+         {
+          "s": "#09090b"
+         }
+        ],
+        "text": "Automate",
+        "size": 14,
+        "font": "Geist",
+        "fw": "Medium",
+        "lh": 20
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "t": "F",
+    "n": "Feature columns",
+    "w": 1200,
+    "h": 548,
+    "lay": "row",
+    "gap": 24,
+    "hfit": 1,
+    "c": [
+     {
+      "t": "F",
+      "n": "Feature / Activation tracking",
+      "w": 384,
+      "h": 548,
+      "lay": "col",
+      "wfit": 1,
+      "grow": 1,
+      "c": [
+       {
+        "t": "F",
+        "n": "Illustration",
+        "w": 384,
+        "h": 400,
+        "fills": [
+         {}
+        ],
+        "r": 16,
+        "c": [
+         {
+          "t": "F",
+          "n": "Stack",
+          "w": 304,
+          "h": 270,
+          "lay": "col",
+          "gap": 12,
+          "wfit": 1,
+          "c": [
+           {
+            "t": "F",
+            "n": "User card",
+            "w": 304,
+            "h": 76,
+            "lay": "row",
+            "pad": [
+             16,
+             16,
+             16,
+             16
+            ],
+            "gap": 14,
+            "ai": "CENTER",
+            "hfit": 1,
+            "fills": [
+             {
+              "s": "#ffffff"
+             }
+            ],
+            "r": 10,
+            "fx": [
+             {
+              "shadow": [
+               0,
+               4
+              ],
+              "blur": 6,
+              "spread": -4,
+              "c": "#000000",
+              "o": 0.1
+             },
+             {
+              "shadow": [
+               0,
+               10
+              ],
+              "blur": 15,
+              "spread": -3,
+              "c": "#000000",
+              "o": 0.1
+             }
+            ],
+            "c": [
+             {
+              "t": "F",
+              "n": "Avatar",
+              "w": 44,
+              "h": 44,
+              "lay": "row",
+              "just": "CENTER",
+              "ai": "CENTER",
+              "fills": [
+               {
+                "s": "#f5f5f5"
+               }
+              ],
+              "r": 8,
+              "c": [
+               {
+                "t": "T",
+                "n": "MC",
+                "w": 23,
+                "h": 14,
+                "fills": [
+                 {
+                  "s": "#737373"
+                 }
+                ],
+                "text": "MC",
+                "size": 14,
+                "font": "Geist",
+                "fw": "SemiBold"
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "Text",
+              "w": 138,
+              "h": 38,
+              "lay": "col",
+              "gap": 2,
+              "wfit": 1,
+              "hfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "Maya Chen",
+                "w": 85,
+                "h": 16,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "Maya Chen",
+                "size": 16,
+                "font": "Geist",
+                "fw": "SemiBold"
+               },
+               {
+                "t": "T",
+                "n": "Signed up 3 days ago",
+                "w": 138,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#737373"
+                 }
+                ],
+                "text": "Signed up 3 days ago",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "F",
+            "n": "Steps card",
+            "w": 304,
+            "h": 182,
+            "lay": "col",
+            "pad": [
+             20,
+             20,
+             20,
+             20
+            ],
+            "wfit": 1,
+            "fills": [
+             {
+              "s": "#ffffff"
+             }
+            ],
+            "r": 10,
+            "fx": [
+             {
+              "shadow": [
+               0,
+               4
+              ],
+              "blur": 6,
+              "spread": -4,
+              "c": "#000000",
+              "o": 0.1
+             },
+             {
+              "shadow": [
+               0,
+               10
+              ],
+              "blur": 15,
+              "spread": -3,
+              "c": "#000000",
+              "o": 0.1
+             }
+            ],
+            "c": [
+             {
+              "t": "F",
+              "n": "Step / Signed up",
+              "w": 100,
+              "h": 22,
+              "lay": "row",
+              "gap": 12,
+              "ai": "CENTER",
+              "wfit": 1,
+              "hfit": 1,
+              "c": [
+               {
+                "t": "F",
+                "n": "Indicator",
+                "w": 22,
+                "h": 22,
+                "lay": "row",
+                "just": "CENTER",
+                "ai": "CENTER",
+                "fills": [
+                 {
+                  "s": "#00bc7d"
+                 }
+                ],
+                "r": 999,
+                "c": [
+                 {
+                  "t": "I",
+                  "n": "Lucide / check",
+                  "w": 13,
+                  "h": 13,
+                  "c": [
+                   {
+                    "t": "VECTOR",
+                    "n": "Vector",
+                    "w": 9.7,
+                    "h": 7,
+                    "fills": [
+                     {
+                      "s": "#004f3b"
+                     }
+                    ]
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "t": "T",
+                "n": "Signed up",
+                "w": 66,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "Signed up",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Medium",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "Connector",
+              "w": 11,
+              "h": 18,
+              "lay": "col",
+              "pad": [
+               2,
+               0,
+               2,
+               10
+              ],
+              "wfit": 1,
+              "hfit": 1,
+              "c": [
+               {
+                "t": "R",
+                "n": "Rectangle",
+                "w": 1,
+                "h": 14,
+                "fills": [
+                 {
+                  "s": "#00bc7d"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "Step / Connected a source",
+              "w": 165,
+              "h": 22,
+              "lay": "row",
+              "gap": 12,
+              "ai": "CENTER",
+              "wfit": 1,
+              "hfit": 1,
+              "c": [
+               {
+                "t": "F",
+                "n": "Indicator",
+                "w": 22,
+                "h": 22,
+                "lay": "row",
+                "just": "CENTER",
+                "ai": "CENTER",
+                "fills": [
+                 {
+                  "s": "#00bc7d"
+                 }
+                ],
+                "r": 999,
+                "c": [
+                 {
+                  "t": "I",
+                  "n": "Lucide / check",
+                  "w": 13,
+                  "h": 13,
+                  "c": [
+                   {
+                    "t": "VECTOR",
+                    "n": "Vector",
+                    "w": 9.7,
+                    "h": 7,
+                    "fills": [
+                     {
+                      "s": "#004f3b"
+                     }
+                    ]
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "t": "T",
+                "n": "Connected a source",
+                "w": 131,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "Connected a source",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Medium",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "Connector",
+              "w": 11,
+              "h": 18,
+              "lay": "col",
+              "pad": [
+               2,
+               0,
+               2,
+               10
+              ],
+              "wfit": 1,
+              "hfit": 1,
+              "c": [
+               {
+                "t": "F",
+                "n": "Dashed",
+                "w": 1,
+                "h": 14,
+                "lay": "col",
+                "gap": 2,
+                "wfit": 1,
+                "hfit": 1,
+                "c": [
+                 {
+                  "t": "R",
+                  "n": "Rectangle",
+                  "w": 1,
+                  "h": 2,
+                  "fills": [
+                   {
+                    "s": "#e5e5e5"
+                   }
+                  ]
+                 },
+                 {
+                  "t": "R",
+                  "n": "Rectangle",
+                  "w": 1,
+                  "h": 2,
+                  "fills": [
+                   {
+                    "s": "#e5e5e5"
+                   }
+                  ]
+                 },
+                 {
+                  "t": "R",
+                  "n": "Rectangle",
+                  "w": 1,
+                  "h": 2,
+                  "fills": [
+                   {
+                    "s": "#e5e5e5"
+                   }
+                  ]
+                 },
+                 {
+                  "t": "R",
+                  "n": "Rectangle",
+                  "w": 1,
+                  "h": 2,
+                  "fills": [
+                   {
+                    "s": "#e5e5e5"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "Step / Built first chart",
+              "w": 130,
+              "h": 22,
+              "lay": "row",
+              "gap": 12,
+              "ai": "CENTER",
+              "wfit": 1,
+              "hfit": 1,
+              "c": [
+               {
+                "t": "F",
+                "n": "Indicator",
+                "w": 22,
+                "h": 22,
+                "lay": "row",
+                "just": "CENTER",
+                "ai": "CENTER",
+                "fills": [
+                 {
+                  "s": "#f5f5f5"
+                 }
+                ],
+                "r": 999
+               },
+               {
+                "t": "T",
+                "n": "Built first chart",
+                "w": 96,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#737373"
+                 }
+                ],
+                "text": "Built first chart",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "Connector",
+              "w": 11,
+              "h": 18,
+              "lay": "col",
+              "pad": [
+               2,
+               0,
+               2,
+               10
+              ],
+              "wfit": 1,
+              "hfit": 1,
+              "c": [
+               {
+                "t": "F",
+                "n": "Dashed",
+                "w": 1,
+                "h": 14,
+                "lay": "col",
+                "gap": 2,
+                "wfit": 1,
+                "hfit": 1,
+                "c": [
+                 {
+                  "t": "R",
+                  "n": "Rectangle",
+                  "w": 1,
+                  "h": 2,
+                  "fills": [
+                   {
+                    "s": "#e5e5e5"
+                   }
+                  ]
+                 },
+                 {
+                  "t": "R",
+                  "n": "Rectangle",
+                  "w": 1,
+                  "h": 2,
+                  "fills": [
+                   {
+                    "s": "#e5e5e5"
+                   }
+                  ]
+                 },
+                 {
+                  "t": "R",
+                  "n": "Rectangle",
+                  "w": 1,
+                  "h": 2,
+                  "fills": [
+                   {
+                    "s": "#e5e5e5"
+                   }
+                  ]
+                 },
+                 {
+                  "t": "R",
+                  "n": "Rectangle",
+                  "w": 1,
+                  "h": 2,
+                  "fills": [
+                   {
+                    "s": "#e5e5e5"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "Step / Invited a teammate",
+              "w": 158,
+              "h": 22,
+              "lay": "row",
+              "gap": 12,
+              "ai": "CENTER",
+              "wfit": 1,
+              "hfit": 1,
+              "c": [
+               {
+                "t": "F",
+                "n": "Indicator",
+                "w": 22,
+                "h": 22,
+                "lay": "row",
+                "just": "CENTER",
+                "ai": "CENTER",
+                "fills": [
+                 {
+                  "s": "#f5f5f5"
+                 }
+                ],
+                "r": 999
+               },
+               {
+                "t": "T",
+                "n": "Invited a teammate",
+                "w": 124,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#737373"
+                 }
+                ],
+                "text": "Invited a teammate",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "t": "F",
+        "n": "Copy",
+        "w": 384,
+        "h": 148,
+        "lay": "col",
+        "pad": [
+         24,
+         0,
+         0,
+         0
+        ],
+        "gap": 8,
+        "wfit": 1,
+        "c": [
+         {
+          "t": "T",
+          "n": "Activation tracking",
+          "w": 180,
+          "h": 28,
+          "fills": [
+           {
+            "s": "#09090b"
+           }
+          ],
+          "text": "Activation tracking",
+          "size": 20,
+          "font": "Geist",
+          "fw": "SemiBold",
+          "lh": 28,
+          "ls": "-1%"
+         },
+         {
+          "t": "T",
+          "n": "See where each user is on the path to their first insight, and who needs a nudge.",
+          "w": 384,
+          "h": 48,
+          "fills": [
+           {
+            "s": "#737373"
+           }
+          ],
+          "text": "See where each user is on the path to their first insight, and who needs a nudge.",
+          "size": 16,
+          "font": "Geist",
+          "fw": "Regular",
+          "lh": 24
+         },
+         {
+          "t": "F",
+          "n": "Learn more",
+          "w": 113,
+          "h": 32,
+          "lay": "row",
+          "pad": [
+           12,
+           0,
+           0,
+           0
+          ],
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "T",
+            "n": "Learn more",
+            "w": 85,
+            "h": 16,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "Learn more",
+            "size": 16,
+            "font": "Geist",
+            "fw": "Medium"
+           },
+           {
+            "t": "F",
+            "n": "Arrow",
+            "w": 20,
+            "h": 20,
+            "lay": "row",
+            "just": "CENTER",
+            "ai": "CENTER",
+            "fills": [
+             {
+              "s": "#2863fa"
+             }
+            ],
+            "r": 999,
+            "c": [
+             {
+              "t": "I",
+              "n": "Lucide / chevron-right",
+              "w": 12,
+              "h": 12,
+              "c": [
+               {
+                "t": "VECTOR",
+                "n": "Vector",
+                "w": 4,
+                "h": 7,
+                "fills": [
+                 {
+                  "s": "#ffffff"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "t": "F",
+      "n": "Feature / Live user stream",
+      "w": 384,
+      "h": 548,
+      "lay": "col",
+      "wfit": 1,
+      "grow": 1,
+      "c": [
+       {
+        "t": "F",
+        "n": "Illustration",
+        "w": 384,
+        "h": 400,
+        "fills": [
+         {}
+        ],
+        "r": 16,
+        "c": [
+         {
+          "t": "F",
+          "n": "Table",
+          "w": 420,
+          "h": 396,
+          "lay": "col",
+          "pad": [
+           16,
+           24,
+           8,
+           24
+          ],
+          "wfit": 1,
+          "fills": [
+           {
+            "s": "#ffffff"
+           }
+          ],
+          "fx": [
+           {
+            "shadow": [
+             0,
+             4
+            ],
+            "blur": 6,
+            "spread": -4,
+            "c": "#000000",
+            "o": 0.1
+           },
+           {
+            "shadow": [
+             0,
+             10
+            ],
+            "blur": 15,
+            "spread": -3,
+            "c": "#000000",
+            "o": 0.1
+           }
+          ],
+          "c": [
+           {
+            "t": "F",
+            "n": "Head",
+            "w": 372,
+            "h": 29,
+            "lay": "row",
+            "pad": [
+             0,
+             0,
+             12,
+             0
+            ],
+            "hfit": 1,
+            "stroke": [
+             {
+              "s": "#e5e5e5"
+             }
+            ],
+            "c": [
+             {
+              "t": "F",
+              "n": "H",
+              "w": 76,
+              "h": 16,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "USER ID",
+                "w": 51,
+                "h": 16,
+                "fills": [
+                 {
+                  "s": "#737373"
+                 }
+                ],
+                "text": "USER ID",
+                "size": 12,
+                "font": "Geist",
+                "fw": "Medium",
+                "lh": 16,
+                "ls": "6%"
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "H",
+              "w": 52,
+              "h": 16,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "TIME",
+                "w": 30,
+                "h": 16,
+                "fills": [
+                 {
+                  "s": "#737373"
+                 }
+                ],
+                "text": "TIME",
+                "size": 12,
+                "font": "Geist",
+                "fw": "Medium",
+                "lh": 16,
+                "ls": "6%"
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "H",
+              "w": 100,
+              "h": 16,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "USER",
+                "w": 34,
+                "h": 16,
+                "fills": [
+                 {
+                  "s": "#737373"
+                 }
+                ],
+                "text": "USER",
+                "size": 12,
+                "font": "Geist",
+                "fw": "Medium",
+                "lh": 16,
+                "ls": "6%"
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "H",
+              "w": 96,
+              "h": 16,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "STATUS",
+                "w": 47,
+                "h": 16,
+                "fills": [
+                 {
+                  "s": "#737373"
+                 }
+                ],
+                "text": "STATUS",
+                "size": 12,
+                "font": "Geist",
+                "fw": "Medium",
+                "lh": 16,
+                "ls": "6%"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "F",
+            "n": "Row",
+            "w": 372,
+            "h": 49,
+            "lay": "row",
+            "pad": [
+             14,
+             0,
+             14,
+             0
+            ],
+            "ai": "CENTER",
+            "hfit": 1,
+            "stroke": [
+             {
+              "s": "#e5e5e5"
+             }
+            ],
+            "c": [
+             {
+              "t": "F",
+              "n": "C",
+              "w": 76,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "u_16398",
+                "w": 56,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "u_16398",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 52,
+              "h": 6,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "R",
+                "n": "Rectangle",
+                "w": 36,
+                "h": 6,
+                "fills": [
+                 {
+                  "s": "#f5f5f5"
+                 }
+                ],
+                "r": 3
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 100,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "Saugat Y.",
+                "w": 61,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "Saugat Y.",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 96,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "I",
+                "n": "Badge / Activated",
+                "w": 70,
+                "h": 20,
+                "lay": "row",
+                "just": "CENTER",
+                "ai": "CENTER",
+                "wfit": 1,
+                "hfit": 1,
+                "c": [
+                 {
+                  "t": "I",
+                  "n": ".badge_iconnone_default",
+                  "w": 70,
+                  "h": 20,
+                  "lay": "row",
+                  "pad": [
+                   0,
+                   8,
+                   0,
+                   8
+                  ],
+                  "gap": 4,
+                  "just": "CENTER",
+                  "ai": "CENTER",
+                  "wfit": 1,
+                  "fills": [
+                   {
+                    "s": "#00bc7d",
+                    "o": 0.2
+                   }
+                  ],
+                  "r": 26,
+                  "c": [
+                   {
+                    "t": "T",
+                    "n": "badge",
+                    "w": 54,
+                    "h": 12,
+                    "fills": [
+                     {
+                      "s": "#004f3b"
+                     }
+                    ],
+                    "text": "Activated",
+                    "size": 12,
+                    "font": "Geist",
+                    "fw": "Medium"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "F",
+            "n": "Row",
+            "w": 372,
+            "h": 49,
+            "lay": "row",
+            "pad": [
+             14,
+             0,
+             14,
+             0
+            ],
+            "ai": "CENTER",
+            "hfit": 1,
+            "stroke": [
+             {
+              "s": "#e5e5e5"
+             }
+            ],
+            "c": [
+             {
+              "t": "F",
+              "n": "C",
+              "w": 76,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "u_16308",
+                "w": 57,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "u_16308",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 52,
+              "h": 6,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "R",
+                "n": "Rectangle",
+                "w": 36,
+                "h": 6,
+                "fills": [
+                 {
+                  "s": "#f5f5f5"
+                 }
+                ],
+                "r": 3
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 100,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "Jake J.",
+                "w": 47,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "Jake J.",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 96,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "I",
+                "n": "Badge / Trial",
+                "w": 40,
+                "h": 20,
+                "lay": "row",
+                "just": "CENTER",
+                "ai": "CENTER",
+                "wfit": 1,
+                "hfit": 1,
+                "c": [
+                 {
+                  "t": "I",
+                  "n": ".badge_iconnone_default",
+                  "w": 40,
+                  "h": 20,
+                  "lay": "row",
+                  "pad": [
+                   0,
+                   8,
+                   0,
+                   8
+                  ],
+                  "gap": 4,
+                  "just": "CENTER",
+                  "ai": "CENTER",
+                  "wfit": 1,
+                  "fills": [
+                   {
+                    "s": "#8e51ff",
+                    "o": 0.2
+                   }
+                  ],
+                  "r": 26,
+                  "c": [
+                   {
+                    "t": "T",
+                    "n": "badge",
+                    "w": 24,
+                    "h": 12,
+                    "fills": [
+                     {
+                      "s": "#4d179a"
+                     }
+                    ],
+                    "text": "Trial",
+                    "size": 12,
+                    "font": "Geist",
+                    "fw": "Medium"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "F",
+            "n": "Row",
+            "w": 372,
+            "h": 49,
+            "lay": "row",
+            "pad": [
+             14,
+             0,
+             14,
+             0
+            ],
+            "ai": "CENTER",
+            "hfit": 1,
+            "stroke": [
+             {
+              "s": "#e5e5e5"
+             }
+            ],
+            "c": [
+             {
+              "t": "F",
+              "n": "C",
+              "w": 76,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "u_17303",
+                "w": 56,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "u_17303",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 52,
+              "h": 6,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "R",
+                "n": "Rectangle",
+                "w": 36,
+                "h": 6,
+                "fills": [
+                 {
+                  "s": "#f5f5f5"
+                 }
+                ],
+                "r": 3
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 100,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "Mike W.",
+                "w": 49,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "Mike W.",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 96,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "I",
+                "n": "Badge / At risk",
+                "w": 53,
+                "h": 20,
+                "lay": "row",
+                "just": "CENTER",
+                "ai": "CENTER",
+                "wfit": 1,
+                "hfit": 1,
+                "c": [
+                 {
+                  "t": "I",
+                  "n": ".badge_iconnone_default",
+                  "w": 53,
+                  "h": 20,
+                  "lay": "row",
+                  "pad": [
+                   0,
+                   8,
+                   0,
+                   8
+                  ],
+                  "gap": 4,
+                  "just": "CENTER",
+                  "ai": "CENTER",
+                  "wfit": 1,
+                  "fills": [
+                   {
+                    "s": "#f0b100",
+                    "o": 0.2
+                   }
+                  ],
+                  "r": 26,
+                  "c": [
+                   {
+                    "t": "T",
+                    "n": "badge",
+                    "w": 37,
+                    "h": 12,
+                    "fills": [
+                     {
+                      "s": "#733e0a"
+                     }
+                    ],
+                    "text": "At risk",
+                    "size": 12,
+                    "font": "Geist",
+                    "fw": "Medium"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "F",
+            "n": "Row",
+            "w": 372,
+            "h": 49,
+            "lay": "row",
+            "pad": [
+             14,
+             0,
+             14,
+             0
+            ],
+            "ai": "CENTER",
+            "hfit": 1,
+            "stroke": [
+             {
+              "s": "#e5e5e5"
+             }
+            ],
+            "c": [
+             {
+              "t": "F",
+              "n": "C",
+              "w": 76,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "u_16258",
+                "w": 56,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "u_16258",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 52,
+              "h": 6,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "R",
+                "n": "Rectangle",
+                "w": 36,
+                "h": 6,
+                "fills": [
+                 {
+                  "s": "#f5f5f5"
+                 }
+                ],
+                "r": 3
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 100,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "Phil H.",
+                "w": 41,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "Phil H.",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 96,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "I",
+                "n": "Badge / Upgraded",
+                "w": 72,
+                "h": 20,
+                "lay": "row",
+                "just": "CENTER",
+                "ai": "CENTER",
+                "wfit": 1,
+                "hfit": 1,
+                "c": [
+                 {
+                  "t": "I",
+                  "n": ".badge_iconnone_default",
+                  "w": 72,
+                  "h": 20,
+                  "lay": "row",
+                  "pad": [
+                   0,
+                   8,
+                   0,
+                   8
+                  ],
+                  "gap": 4,
+                  "just": "CENTER",
+                  "ai": "CENTER",
+                  "wfit": 1,
+                  "fills": [
+                   {
+                    "s": "#2b7fff",
+                    "o": 0.2
+                   }
+                  ],
+                  "r": 26,
+                  "c": [
+                   {
+                    "t": "T",
+                    "n": "badge",
+                    "w": 56,
+                    "h": 12,
+                    "fills": [
+                     {
+                      "s": "#1c398e"
+                     }
+                    ],
+                    "text": "Upgraded",
+                    "size": 12,
+                    "font": "Geist",
+                    "fw": "Medium"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "F",
+            "n": "Row",
+            "w": 372,
+            "h": 49,
+            "lay": "row",
+            "pad": [
+             14,
+             0,
+             14,
+             0
+            ],
+            "ai": "CENTER",
+            "hfit": 1,
+            "stroke": [
+             {
+              "s": "#e5e5e5"
+             }
+            ],
+            "c": [
+             {
+              "t": "F",
+              "n": "C",
+              "w": 76,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "u_16678",
+                "w": 55,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "u_16678",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 52,
+              "h": 6,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "R",
+                "n": "Rectangle",
+                "w": 36,
+                "h": 6,
+                "fills": [
+                 {
+                  "s": "#f5f5f5"
+                 }
+                ],
+                "r": 3
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 100,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "Ben K.",
+                "w": 41,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "Ben K.",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 96,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "I",
+                "n": "Badge / Activated",
+                "w": 70,
+                "h": 20,
+                "lay": "row",
+                "just": "CENTER",
+                "ai": "CENTER",
+                "wfit": 1,
+                "hfit": 1,
+                "c": [
+                 {
+                  "t": "I",
+                  "n": ".badge_iconnone_default",
+                  "w": 70,
+                  "h": 20,
+                  "lay": "row",
+                  "pad": [
+                   0,
+                   8,
+                   0,
+                   8
+                  ],
+                  "gap": 4,
+                  "just": "CENTER",
+                  "ai": "CENTER",
+                  "wfit": 1,
+                  "fills": [
+                   {
+                    "s": "#00bc7d",
+                    "o": 0.2
+                   }
+                  ],
+                  "r": 26,
+                  "c": [
+                   {
+                    "t": "T",
+                    "n": "badge",
+                    "w": 54,
+                    "h": 12,
+                    "fills": [
+                     {
+                      "s": "#004f3b"
+                     }
+                    ],
+                    "text": "Activated",
+                    "size": 12,
+                    "font": "Geist",
+                    "fw": "Medium"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "F",
+            "n": "Row",
+            "w": 372,
+            "h": 49,
+            "lay": "row",
+            "pad": [
+             14,
+             0,
+             14,
+             0
+            ],
+            "ai": "CENTER",
+            "hfit": 1,
+            "stroke": [
+             {
+              "s": "#e5e5e5"
+             }
+            ],
+            "c": [
+             {
+              "t": "F",
+              "n": "C",
+              "w": 76,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "u_16912",
+                "w": 53,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "u_16912",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 52,
+              "h": 6,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "R",
+                "n": "Rectangle",
+                "w": 36,
+                "h": 6,
+                "fills": [
+                 {
+                  "s": "#f5f5f5"
+                 }
+                ],
+                "r": 3
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 100,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "Lena O.",
+                "w": 48,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "Lena O.",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 96,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "I",
+                "n": "Badge / Trial",
+                "w": 40,
+                "h": 20,
+                "lay": "row",
+                "just": "CENTER",
+                "ai": "CENTER",
+                "wfit": 1,
+                "hfit": 1,
+                "c": [
+                 {
+                  "t": "I",
+                  "n": ".badge_iconnone_default",
+                  "w": 40,
+                  "h": 20,
+                  "lay": "row",
+                  "pad": [
+                   0,
+                   8,
+                   0,
+                   8
+                  ],
+                  "gap": 4,
+                  "just": "CENTER",
+                  "ai": "CENTER",
+                  "wfit": 1,
+                  "fills": [
+                   {
+                    "s": "#8e51ff",
+                    "o": 0.2
+                   }
+                  ],
+                  "r": 26,
+                  "c": [
+                   {
+                    "t": "T",
+                    "n": "badge",
+                    "w": 24,
+                    "h": 12,
+                    "fills": [
+                     {
+                      "s": "#4d179a"
+                     }
+                    ],
+                    "text": "Trial",
+                    "size": 12,
+                    "font": "Geist",
+                    "fw": "Medium"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "F",
+            "n": "Row",
+            "w": 372,
+            "h": 49,
+            "lay": "row",
+            "pad": [
+             14,
+             0,
+             14,
+             0
+            ],
+            "ai": "CENTER",
+            "hfit": 1,
+            "stroke": [
+             {
+              "s": "#e5e5e5"
+             }
+            ],
+            "c": [
+             {
+              "t": "F",
+              "n": "C",
+              "w": 76,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "u_17045",
+                "w": 56,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "u_17045",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 52,
+              "h": 6,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "R",
+                "n": "Rectangle",
+                "w": 36,
+                "h": 6,
+                "fills": [
+                 {
+                  "s": "#f5f5f5"
+                 }
+                ],
+                "r": 3
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 100,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "T",
+                "n": "Tom R.",
+                "w": 43,
+                "h": 20,
+                "fills": [
+                 {
+                  "s": "#09090b"
+                 }
+                ],
+                "text": "Tom R.",
+                "size": 14,
+                "font": "Geist",
+                "fw": "Regular",
+                "lh": 20
+               }
+              ]
+             },
+             {
+              "t": "F",
+              "n": "C",
+              "w": 96,
+              "h": 20,
+              "lay": "col",
+              "wfit": 1,
+              "c": [
+               {
+                "t": "I",
+                "n": "Badge / At risk",
+                "w": 53,
+                "h": 20,
+                "lay": "row",
+                "just": "CENTER",
+                "ai": "CENTER",
+                "wfit": 1,
+                "hfit": 1,
+                "c": [
+                 {
+                  "t": "I",
+                  "n": ".badge_iconnone_default",
+                  "w": 53,
+                  "h": 20,
+                  "lay": "row",
+                  "pad": [
+                   0,
+                   8,
+                   0,
+                   8
+                  ],
+                  "gap": 4,
+                  "just": "CENTER",
+                  "ai": "CENTER",
+                  "wfit": 1,
+                  "fills": [
+                   {
+                    "s": "#f0b100",
+                    "o": 0.2
+                   }
+                  ],
+                  "r": 26,
+                  "c": [
+                   {
+                    "t": "T",
+                    "n": "badge",
+                    "w": 37,
+                    "h": 12,
+                    "fills": [
+                     {
+                      "s": "#733e0a"
+                     }
+                    ],
+                    "text": "At risk",
+                    "size": 12,
+                    "font": "Geist",
+                    "fw": "Medium"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "t": "F",
+        "n": "Copy",
+        "w": 384,
+        "h": 148,
+        "lay": "col",
+        "pad": [
+         24,
+         0,
+         0,
+         0
+        ],
+        "gap": 8,
+        "wfit": 1,
+        "c": [
+         {
+          "t": "T",
+          "n": "Live user stream",
+          "w": 156,
+          "h": 28,
+          "fills": [
+           {
+            "s": "#09090b"
+           }
+          ],
+          "text": "Live user stream",
+          "size": 20,
+          "font": "Geist",
+          "fw": "SemiBold",
+          "lh": 28,
+          "ls": "-1%"
+         },
+         {
+          "t": "T",
+          "n": "Watch every signup, upgrade, and cancellation the moment it happens.",
+          "w": 384,
+          "h": 48,
+          "fills": [
+           {
+            "s": "#737373"
+           }
+          ],
+          "text": "Watch every signup, upgrade, and cancellation the moment it happens.",
+          "size": 16,
+          "font": "Geist",
+          "fw": "Regular",
+          "lh": 24
+         },
+         {
+          "t": "F",
+          "n": "Learn more",
+          "w": 113,
+          "h": 32,
+          "lay": "row",
+          "pad": [
+           12,
+           0,
+           0,
+           0
+          ],
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "T",
+            "n": "Learn more",
+            "w": 85,
+            "h": 16,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "Learn more",
+            "size": 16,
+            "font": "Geist",
+            "fw": "Medium"
+           },
+           {
+            "t": "F",
+            "n": "Arrow",
+            "w": 20,
+            "h": 20,
+            "lay": "row",
+            "just": "CENTER",
+            "ai": "CENTER",
+            "fills": [
+             {
+              "s": "#2863fa"
+             }
+            ],
+            "r": 999,
+            "c": [
+             {
+              "t": "I",
+              "n": "Lucide / chevron-right",
+              "w": 12,
+              "h": 12,
+              "c": [
+               {
+                "t": "VECTOR",
+                "n": "Vector",
+                "w": 4,
+                "h": 7,
+                "fills": [
+                 {
+                  "s": "#ffffff"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "t": "F",
+      "n": "Feature / Smart alerts",
+      "w": 384,
+      "h": 548,
+      "lay": "col",
+      "wfit": 1,
+      "grow": 1,
+      "c": [
+       {
+        "t": "F",
+        "n": "Illustration",
+        "w": 384,
+        "h": 400,
+        "fills": [
+         {}
+        ],
+        "r": 16,
+        "c": [
+         {
+          "t": "F",
+          "n": "Rule card",
+          "w": 304,
+          "h": 283,
+          "lay": "col",
+          "pad": [
+           24,
+           24,
+           24,
+           24
+          ],
+          "gap": 16,
+          "wfit": 1,
+          "fills": [
+           {
+            "s": "#ffffff"
+           }
+          ],
+          "r": 10,
+          "fx": [
+           {
+            "shadow": [
+             0,
+             4
+            ],
+            "blur": 6,
+            "spread": -4,
+            "c": "#000000",
+            "o": 0.1
+           },
+           {
+            "shadow": [
+             0,
+             10
+            ],
+            "blur": 15,
+            "spread": -3,
+            "c": "#000000",
+            "o": 0.1
+           }
+          ],
+          "c": [
+           {
+            "t": "F",
+            "n": "Title",
+            "w": 256,
+            "h": 43,
+            "lay": "col",
+            "pad": [
+             0,
+             0,
+             14,
+             0
+            ],
+            "wfit": 1,
+            "stroke": [
+             {
+              "s": "#e5e5e5"
+             }
+            ],
+            "c": [
+             {
+              "t": "T",
+              "n": "Alert #1",
+              "w": 65,
+              "h": 28,
+              "fills": [
+               {
+                "s": "#09090b"
+               }
+              ],
+              "text": "Alert #1",
+              "size": 18,
+              "font": "Geist",
+              "fw": "SemiBold",
+              "lh": 28
+             }
+            ]
+           },
+           {
+            "t": "F",
+            "n": "Rule",
+            "w": 256,
+            "h": 86,
+            "lay": "row",
+            "gap": 8,
+            "ai": "CENTER",
+            "hfit": 1,
+            "wrap": 1,
+            "c": [
+             {
+              "t": "T",
+              "n": "If",
+              "w": 9,
+              "h": 20,
+              "fills": [
+               {
+                "s": "#737373"
+               }
+              ],
+              "text": "If",
+              "size": 14,
+              "font": "Geist",
+              "fw": "Regular",
+              "lh": 20
+             },
+             {
+              "t": "I",
+              "n": "Badge / week-4 retention",
+              "w": 113,
+              "h": 22,
+              "lay": "row",
+              "just": "CENTER",
+              "ai": "CENTER",
+              "wfit": 1,
+              "hfit": 1,
+              "c": [
+               {
+                "t": "I",
+                "n": ".badge_iconnone_lg",
+                "w": 113,
+                "h": 22,
+                "lay": "row",
+                "pad": [
+                 0,
+                 8,
+                 0,
+                 8
+                ],
+                "gap": 4,
+                "just": "CENTER",
+                "ai": "CENTER",
+                "wfit": 1,
+                "fills": [
+                 {
+                  "s": "#8e51ff",
+                  "o": 0.2
+                 }
+                ],
+                "r": 26,
+                "c": [
+                 {
+                  "t": "T",
+                  "n": "badge-lg",
+                  "w": 97,
+                  "h": 12,
+                  "fills": [
+                   {
+                    "s": "#4d179a"
+                   }
+                  ],
+                  "text": "week-4 retention",
+                  "size": 12,
+                  "font": "Geist",
+                  "fw": "Medium"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "t": "T",
+              "n": "drops below",
+              "w": 79,
+              "h": 20,
+              "fills": [
+               {
+                "s": "#737373"
+               }
+              ],
+              "text": "drops below",
+              "size": 14,
+              "font": "Geist",
+              "fw": "Regular",
+              "lh": 20
+             },
+             {
+              "t": "I",
+              "n": "Badge / 55%",
+              "w": 42,
+              "h": 22,
+              "lay": "row",
+              "just": "CENTER",
+              "ai": "CENTER",
+              "wfit": 1,
+              "hfit": 1,
+              "c": [
+               {
+                "t": "I",
+                "n": ".badge_iconnone_lg",
+                "w": 42,
+                "h": 22,
+                "lay": "row",
+                "pad": [
+                 0,
+                 8,
+                 0,
+                 8
+                ],
+                "gap": 4,
+                "just": "CENTER",
+                "ai": "CENTER",
+                "wfit": 1,
+                "fills": [
+                 {
+                  "s": "#00bc7d",
+                  "o": 0.2
+                 }
+                ],
+                "r": 26,
+                "c": [
+                 {
+                  "t": "T",
+                  "n": "badge-lg",
+                  "w": 26,
+                  "h": 12,
+                  "fills": [
+                   {
+                    "s": "#004f3b"
+                   }
+                  ],
+                  "text": "55%",
+                  "size": 12,
+                  "font": "Geist",
+                  "fw": "Medium"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "t": "T",
+              "n": "and",
+              "w": 24,
+              "h": 20,
+              "fills": [
+               {
+                "s": "#737373"
+               }
+              ],
+              "text": "and",
+              "size": 14,
+              "font": "Geist",
+              "fw": "Regular",
+              "lh": 20
+             },
+             {
+              "t": "I",
+              "n": "Badge / plan",
+              "w": 41,
+              "h": 22,
+              "lay": "row",
+              "just": "CENTER",
+              "ai": "CENTER",
+              "wfit": 1,
+              "hfit": 1,
+              "c": [
+               {
+                "t": "I",
+                "n": ".badge_iconnone_lg",
+                "w": 41,
+                "h": 22,
+                "lay": "row",
+                "pad": [
+                 0,
+                 8,
+                 0,
+                 8
+                ],
+                "gap": 4,
+                "just": "CENTER",
+                "ai": "CENTER",
+                "wfit": 1,
+                "fills": [
+                 {
+                  "s": "#8e51ff",
+                  "o": 0.2
+                 }
+                ],
+                "r": 26,
+                "c": [
+                 {
+                  "t": "T",
+                  "n": "badge-lg",
+                  "w": 25,
+                  "h": 12,
+                  "fills": [
+                   {
+                    "s": "#4d179a"
+                   }
+                  ],
+                  "text": "plan",
+                  "size": 12,
+                  "font": "Geist",
+                  "fw": "Medium"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "t": "T",
+              "n": "equals",
+              "w": 43,
+              "h": 20,
+              "fills": [
+               {
+                "s": "#737373"
+               }
+              ],
+              "text": "equals",
+              "size": 14,
+              "font": "Geist",
+              "fw": "Regular",
+              "lh": 20
+             },
+             {
+              "t": "I",
+              "n": "Badge / Growth",
+              "w": 58,
+              "h": 22,
+              "lay": "row",
+              "just": "CENTER",
+              "ai": "CENTER",
+              "wfit": 1,
+              "hfit": 1,
+              "c": [
+               {
+                "t": "I",
+                "n": ".badge_iconnone_lg",
+                "w": 58,
+                "h": 22,
+                "lay": "row",
+                "pad": [
+                 0,
+                 8,
+                 0,
+                 8
+                ],
+                "gap": 4,
+                "just": "CENTER",
+                "ai": "CENTER",
+                "wfit": 1,
+                "fills": [
+                 {
+                  "s": "#00bc7d",
+                  "o": 0.2
+                 }
+                ],
+                "r": 26,
+                "c": [
+                 {
+                  "t": "T",
+                  "n": "badge-lg",
+                  "w": 42,
+                  "h": 12,
+                  "fills": [
+                   {
+                    "s": "#004f3b"
+                   }
+                  ],
+                  "text": "Growth",
+                  "size": 12,
+                  "font": "Geist",
+                  "fw": "Medium"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "t": "T",
+              "n": "then",
+              "w": 30,
+              "h": 20,
+              "fills": [
+               {
+                "s": "#737373"
+               }
+              ],
+              "text": "then",
+              "size": 14,
+              "font": "Geist",
+              "fw": "Regular",
+              "lh": 20
+             },
+             {
+              "t": "I",
+              "n": "Badge / notify",
+              "w": 49,
+              "h": 22,
+              "lay": "row",
+              "just": "CENTER",
+              "ai": "CENTER",
+              "wfit": 1,
+              "hfit": 1,
+              "c": [
+               {
+                "t": "I",
+                "n": ".badge_iconnone_lg",
+                "w": 49,
+                "h": 22,
+                "lay": "row",
+                "pad": [
+                 0,
+                 8,
+                 0,
+                 8
+                ],
+                "gap": 4,
+                "just": "CENTER",
+                "ai": "CENTER",
+                "wfit": 1,
+                "fills": [
+                 {
+                  "s": "#8e51ff",
+                  "o": 0.2
+                 }
+                ],
+                "r": 26,
+                "c": [
+                 {
+                  "t": "T",
+                  "n": "badge-lg",
+                  "w": 33,
+                  "h": 12,
+                  "fills": [
+                   {
+                    "s": "#4d179a"
+                   }
+                  ],
+                  "text": "notify",
+                  "size": 12,
+                  "font": "Geist",
+                  "fw": "Medium"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "F",
+            "n": "Notify",
+            "w": 256,
+            "h": 74,
+            "lay": "col",
+            "pad": [
+             4,
+             0,
+             0,
+             0
+            ],
+            "gap": 8,
+            "wfit": 1,
+            "c": [
+             {
+              "t": "T",
+              "n": "Send to",
+              "w": 52,
+              "h": 20,
+              "fills": [
+               {
+                "s": "#09090b"
+               }
+              ],
+              "text": "Send to",
+              "size": 14,
+              "font": "Geist",
+              "fw": "Medium",
+              "lh": 20
+             },
+             {
+              "t": "F",
+              "n": "Input",
+              "w": 256,
+              "h": 42,
+              "lay": "row",
+              "pad": [
+               6,
+               6,
+               6,
+               6
+              ],
+              "gap": 6,
+              "hfit": 1,
+              "fills": [
+               {
+                "s": "#ffffff"
+               }
+              ],
+              "stroke": [
+               {
+                "s": "#e5e5e5"
+               }
+              ],
+              "r": 8,
+              "c": [
+               {
+                "t": "F",
+                "n": "Tag",
+                "w": 132,
+                "h": 28,
+                "lay": "row",
+                "pad": [
+                 4,
+                 8,
+                 4,
+                 8
+                ],
+                "gap": 6,
+                "ai": "CENTER",
+                "wfit": 1,
+                "hfit": 1,
+                "fills": [
+                 {
+                  "s": "#f5f5f5"
+                 }
+                ],
+                "r": 6,
+                "c": [
+                 {
+                  "t": "T",
+                  "n": "#product-team",
+                  "w": 98,
+                  "h": 20,
+                  "fills": [
+                   {
+                    "s": "#171717"
+                   }
+                  ],
+                  "text": "#product-team",
+                  "size": 14,
+                  "font": "Geist",
+                  "fw": "Medium",
+                  "lh": 20
+                 },
+                 {
+                  "t": "I",
+                  "n": "Lucide / x",
+                  "w": 12,
+                  "h": 12,
+                  "c": [
+                   {
+                    "t": "VECTOR",
+                    "n": "Vector",
+                    "w": 7,
+                    "h": 7,
+                    "fills": [
+                     {
+                      "s": "#171717"
+                     }
+                    ]
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "t": "F",
+        "n": "Copy",
+        "w": 384,
+        "h": 148,
+        "lay": "col",
+        "pad": [
+         24,
+         0,
+         0,
+         0
+        ],
+        "gap": 8,
+        "wfit": 1,
+        "c": [
+         {
+          "t": "T",
+          "n": "Smart alerts",
+          "w": 117,
+          "h": 28,
+          "fills": [
+           {
+            "s": "#09090b"
+           }
+          ],
+          "text": "Smart alerts",
+          "size": 20,
+          "font": "Geist",
+          "fw": "SemiBold",
+          "lh": 28,
+          "ls": "-1%"
+         },
+         {
+          "t": "T",
+          "n": "Set a rule once. Relay posts to Slack when a metric moves past your limit.",
+          "w": 384,
+          "h": 48,
+          "fills": [
+           {
+            "s": "#737373"
+           }
+          ],
+          "text": "Set a rule once. Relay posts to Slack when a metric moves past your limit.",
+          "size": 16,
+          "font": "Geist",
+          "fw": "Regular",
+          "lh": 24
+         },
+         {
+          "t": "F",
+          "n": "Learn more",
+          "w": 113,
+          "h": 32,
+          "lay": "row",
+          "pad": [
+           12,
+           0,
+           0,
+           0
+          ],
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "T",
+            "n": "Learn more",
+            "w": 85,
+            "h": 16,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "Learn more",
+            "size": 16,
+            "font": "Geist",
+            "fw": "Medium"
+           },
+           {
+            "t": "F",
+            "n": "Arrow",
+            "w": 20,
+            "h": 20,
+            "lay": "row",
+            "just": "CENTER",
+            "ai": "CENTER",
+            "fills": [
+             {
+              "s": "#2863fa"
+             }
+            ],
+            "r": 999,
+            "c": [
+             {
+              "t": "I",
+              "n": "Lucide / chevron-right",
+              "w": 12,
+              "h": 12,
+              "c": [
+               {
+                "t": "VECTOR",
+                "n": "Vector",
+                "w": 4,
+                "h": 7,
+                "fills": [
+                 {
+                  "s": "#ffffff"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "pricing": {
+  "t": "F",
+  "n": "Pricing",
+  "w": 1440,
+  "h": 763,
+  "lay": "col",
+  "pad": [
+   96,
+   120,
+   96,
+   120
+  ],
+  "gap": 48,
+  "ai": "CENTER",
+  "wfit": 1,
+  "fills": [
+   {
+    "s": "#f5f5f5"
+   }
+  ],
+  "stroke": [
+   {
+    "s": "#e5e5e5"
+   }
+  ],
+  "c": [
+   {
+    "t": "F",
+    "n": "Pattern",
+    "w": 1440,
+    "h": 763,
+    "c": [
+     {
+      "t": "F",
+      "n": "Grid",
+      "w": 1440,
+      "h": 763,
+      "pattern": {
+       "count": 147,
+       "sample": {
+        "t": "LINE",
+        "n": "Line",
+        "w": 80,
+        "h": 0,
+        "stroke": [
+         {
+          "s": "#09090b",
+          "o": 0.1
+         }
+        ],
+        "sa": "CENTER",
+        "op": 0.78
+       }
+      }
+     },
+     {
+      "t": "F",
+      "n": "Nodes",
+      "w": 1440,
+      "h": 763,
+      "c": [
+       {
+        "t": "LINE",
+        "n": "Line",
+        "w": 80,
+        "h": 0,
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ],
+        "sa": "CENTER"
+       },
+       {
+        "t": "LINE",
+        "n": "Line",
+        "w": 80,
+        "h": 0,
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ],
+        "sa": "CENTER",
+        "rot": -90
+       },
+       {
+        "t": "ELLIPSE",
+        "n": "Ellipse",
+        "w": 28,
+        "h": 28,
+        "fills": [
+         {
+          "s": "#f5f5f5"
+         }
+        ],
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ]
+       },
+       {
+        "t": "ELLIPSE",
+        "n": "Ellipse",
+        "w": 28,
+        "h": 28,
+        "fills": [
+         {
+          "s": "#f5f5f5"
+         }
+        ],
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ]
+       },
+       {
+        "t": "ELLIPSE",
+        "n": "Ellipse",
+        "w": 28,
+        "h": 28,
+        "fills": [
+         {
+          "s": "#f5f5f5"
+         }
+        ],
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ]
+       },
+       {
+        "t": "LINE",
+        "n": "Line",
+        "w": 160,
+        "h": 0,
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ],
+        "sa": "CENTER",
+        "rot": -90
+       },
+       {
+        "t": "LINE",
+        "n": "Line",
+        "w": 80,
+        "h": 0,
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ],
+        "sa": "CENTER"
+       },
+       {
+        "t": "ELLIPSE",
+        "n": "Ellipse",
+        "w": 28,
+        "h": 28,
+        "fills": [
+         {
+          "s": "#f5f5f5"
+         }
+        ],
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ]
+       },
+       {
+        "t": "ELLIPSE",
+        "n": "Ellipse",
+        "w": 28,
+        "h": 28,
+        "fills": [
+         {
+          "s": "#f5f5f5"
+         }
+        ],
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ]
+       },
+       {
+        "t": "ELLIPSE",
+        "n": "Ellipse",
+        "w": 28,
+        "h": 28,
+        "fills": [
+         {
+          "s": "#f5f5f5"
+         }
+        ],
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ]
+       },
+       {
+        "t": "ELLIPSE",
+        "n": "Ellipse",
+        "w": 10,
+        "h": 10,
+        "fills": [
+         {
+          "s": "#2863fa"
+         }
+        ]
+       },
+       {
+        "t": "ELLIPSE",
+        "n": "Ellipse",
+        "w": 10,
+        "h": 10,
+        "fills": [
+         {
+          "s": "#2863fa"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "t": "F",
+      "n": "Guides",
+      "w": 1440,
+      "h": 763,
+      "c": [
+       {
+        "t": "LINE",
+        "n": "Line",
+        "w": 747,
+        "h": 0,
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ],
+        "sa": "CENTER",
+        "rot": -90
+       },
+       {
+        "t": "LINE",
+        "n": "Line",
+        "w": 747,
+        "h": 0,
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ],
+        "sa": "CENTER",
+        "rot": -90
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "t": "F",
+    "n": "Section header",
+    "w": 567,
+    "h": 132,
+    "lay": "col",
+    "gap": 16,
+    "ai": "CENTER",
+    "wfit": 1,
+    "hfit": 1,
+    "c": [
+     {
+      "t": "T",
+      "n": "Pricing",
+      "w": 46,
+      "h": 20,
+      "fills": [
+       {
+        "s": "#737373"
+       }
+      ],
+      "text": "Pricing",
+      "size": 14,
+      "font": "Geist",
+      "fw": "Medium",
+      "lh": 20
+     },
+     {
+      "t": "T",
+      "n": "Start free. Pay as you grow.",
+      "w": 567,
+      "h": 56,
+      "fills": [
+       {
+        "s": "#09090b"
+       }
+      ],
+      "text": "Start free. Pay as you grow.",
+      "size": 48,
+      "font": "Geist Serif",
+      "fw": "Regular",
+      "lh": 56,
+      "ls": "-1.5%",
+      "align": "CENTER"
+     },
+     {
+      "t": "T",
+      "n": "All plans include unlimited seats and dashboards.",
+      "w": 520,
+      "h": 24,
+      "fills": [
+       {
+        "s": "#737373"
+       }
+      ],
+      "text": "All plans include unlimited seats and dashboards.",
+      "size": 16,
+      "font": "Geist",
+      "fw": "Regular",
+      "lh": 24,
+      "align": "CENTER"
+     }
+    ]
+   },
+   {
+    "t": "F",
+    "n": "Plans",
+    "w": 1200,
+    "h": 390,
+    "lay": "row",
+    "gap": 16,
+    "hfit": 1,
+    "c": [
+     {
+      "t": "F",
+      "n": "Plan / Starter",
+      "w": 389,
+      "h": 390,
+      "lay": "col",
+      "pad": [
+       28,
+       28,
+       28,
+       28
+      ],
+      "gap": 24,
+      "grow": 1,
+      "fills": [
+       {
+        "s": "#ffffff"
+       }
+      ],
+      "stroke": [
+       {
+        "s": "#e5e5e5"
+       }
+      ],
+      "r": 12,
+      "fx": [
+       {
+        "shadow": [
+         0,
+         1
+        ],
+        "blur": 2,
+        "c": "#000000",
+        "o": 0.05
+       }
+      ],
+      "c": [
+       {
+        "t": "F",
+        "n": "Top",
+        "w": 331,
+        "h": 52,
+        "lay": "col",
+        "gap": 8,
+        "wfit": 1,
+        "c": [
+         {
+          "t": "F",
+          "n": "Name row",
+          "w": 331,
+          "h": 24,
+          "lay": "row",
+          "just": "SPACE_BETWEEN",
+          "ai": "CENTER",
+          "c": [
+           {
+            "t": "T",
+            "n": "Starter",
+            "w": 55,
+            "h": 16,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "Starter",
+            "size": 16,
+            "font": "Geist",
+            "fw": "SemiBold"
+           }
+          ]
+         },
+         {
+          "t": "T",
+          "n": "For side projects and early teams.",
+          "w": 216,
+          "h": 20,
+          "fills": [
+           {
+            "s": "#737373"
+           }
+          ],
+          "text": "For side projects and early teams.",
+          "size": 14,
+          "font": "Geist",
+          "fw": "Regular",
+          "lh": 20
+         }
+        ]
+       },
+       {
+        "t": "F",
+        "n": "Price",
+        "w": 100,
+        "h": 36,
+        "lay": "row",
+        "gap": 4,
+        "ai": "BASELINE",
+        "wfit": 1,
+        "hfit": 1,
+        "c": [
+         {
+          "t": "T",
+          "n": "$0",
+          "w": 48,
+          "h": 36,
+          "fills": [
+           {
+            "s": "#09090b"
+           }
+          ],
+          "text": "$0",
+          "size": 36,
+          "font": "Geist",
+          "fw": "SemiBold",
+          "ls": "-2%"
+         },
+         {
+          "t": "T",
+          "n": "/month",
+          "w": 48,
+          "h": 20,
+          "fills": [
+           {
+            "s": "#737373"
+           }
+          ],
+          "text": "/month",
+          "size": 14,
+          "font": "Geist",
+          "fw": "Regular",
+          "lh": 20
+         }
+        ]
+       },
+       {
+        "t": "I",
+        "n": "Button / Start for free",
+        "w": 331,
+        "h": 36,
+        "lay": "row",
+        "just": "CENTER",
+        "ai": "CENTER",
+        "hfit": 1,
+        "c": [
+         {
+          "t": "I",
+          "n": ".button_iconnone_lg",
+          "w": 331,
+          "h": 36,
+          "lay": "row",
+          "pad": [
+           0,
+           12,
+           0,
+           12
+          ],
+          "gap": 6,
+          "just": "CENTER",
+          "ai": "CENTER",
+          "grow": 1,
+          "fills": [
+           {
+            "s": "#f5f5f5"
+           }
+          ],
+          "r": 8,
+          "c": [
+           {
+            "t": "T",
+            "n": "button-lg",
+            "w": 85,
+            "h": 14,
+            "fills": [
+             {
+              "s": "#171717"
+             }
+            ],
+            "text": "Start for free",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Medium"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "t": "F",
+        "n": "Features",
+        "w": 331,
+        "h": 105,
+        "lay": "col",
+        "pad": [
+         24,
+         0,
+         0,
+         0
+        ],
+        "gap": 10,
+        "wfit": 1,
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ],
+        "c": [
+         {
+          "t": "F",
+          "n": "Item",
+          "w": 162,
+          "h": 20,
+          "lay": "row",
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "I",
+            "n": "Lucide / check",
+            "w": 16,
+            "h": 16,
+            "c": [
+             {
+              "t": "VECTOR",
+              "n": "Vector",
+              "w": 12,
+              "h": 8.7,
+              "fills": [
+               {
+                "s": "#09090b"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "T",
+            "n": "10k events per month",
+            "w": 138,
+            "h": 20,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "10k events per month",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Regular",
+            "lh": 20
+           }
+          ]
+         },
+         {
+          "t": "F",
+          "n": "Item",
+          "w": 163,
+          "h": 20,
+          "lay": "row",
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "I",
+            "n": "Lucide / check",
+            "w": 16,
+            "h": 16,
+            "c": [
+             {
+              "t": "VECTOR",
+              "n": "Vector",
+              "w": 12,
+              "h": 8.7,
+              "fills": [
+               {
+                "s": "#09090b"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "T",
+            "n": "Funnels and retention",
+            "w": 139,
+            "h": 20,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "Funnels and retention",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Regular",
+            "lh": 20
+           }
+          ]
+         },
+         {
+          "t": "F",
+          "n": "Item",
+          "w": 140,
+          "h": 20,
+          "lay": "row",
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "I",
+            "n": "Lucide / check",
+            "w": 16,
+            "h": 16,
+            "c": [
+             {
+              "t": "VECTOR",
+              "n": "Vector",
+              "w": 12,
+              "h": 8.7,
+              "fills": [
+               {
+                "s": "#09090b"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "T",
+            "n": "7-day data history",
+            "w": 116,
+            "h": 20,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "7-day data history",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Regular",
+            "lh": 20
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "t": "F",
+      "n": "Plan / Growth",
+      "w": 390,
+      "h": 390,
+      "lay": "col",
+      "pad": [
+       28,
+       28,
+       28,
+       28
+      ],
+      "gap": 24,
+      "grow": 1,
+      "fills": [
+       {
+        "s": "#ffffff"
+       }
+      ],
+      "stroke": [
+       {
+        "s": "#2863fa"
+       }
+      ],
+      "sw": 1.5,
+      "r": 12,
+      "fx": [
+       {
+        "shadow": [
+         0,
+         4
+        ],
+        "blur": 6,
+        "spread": -4,
+        "c": "#000000",
+        "o": 0.1
+       },
+       {
+        "shadow": [
+         0,
+         10
+        ],
+        "blur": 15,
+        "spread": -3,
+        "c": "#000000",
+        "o": 0.1
+       }
+      ],
+      "c": [
+       {
+        "t": "F",
+        "n": "Top",
+        "w": 331,
+        "h": 52,
+        "lay": "col",
+        "gap": 8,
+        "wfit": 1,
+        "c": [
+         {
+          "t": "F",
+          "n": "Name row",
+          "w": 331,
+          "h": 24,
+          "lay": "row",
+          "just": "SPACE_BETWEEN",
+          "ai": "CENTER",
+          "c": [
+           {
+            "t": "T",
+            "n": "Growth",
+            "w": 57,
+            "h": 16,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "Growth",
+            "size": 16,
+            "font": "Geist",
+            "fw": "SemiBold"
+           },
+           {
+            "t": "I",
+            "n": "Badge / Most popular",
+            "w": 91,
+            "h": 20,
+            "lay": "row",
+            "just": "CENTER",
+            "ai": "CENTER",
+            "wfit": 1,
+            "hfit": 1,
+            "c": [
+             {
+              "t": "I",
+              "n": ".badge_iconnone_default",
+              "w": 91,
+              "h": 20,
+              "lay": "row",
+              "pad": [
+               0,
+               8,
+               0,
+               8
+              ],
+              "gap": 4,
+              "just": "CENTER",
+              "ai": "CENTER",
+              "wfit": 1,
+              "fills": [
+               {
+                "s": "#f5f5f5"
+               }
+              ],
+              "r": 26,
+              "c": [
+               {
+                "t": "T",
+                "n": "badge",
+                "w": 75,
+                "h": 12,
+                "fills": [
+                 {
+                  "s": "#171717"
+                 }
+                ],
+                "text": "Most popular",
+                "size": 12,
+                "font": "Geist",
+                "fw": "Medium"
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "t": "T",
+          "n": "For teams that ship every week.",
+          "w": 205,
+          "h": 20,
+          "fills": [
+           {
+            "s": "#737373"
+           }
+          ],
+          "text": "For teams that ship every week.",
+          "size": 14,
+          "font": "Geist",
+          "fw": "Regular",
+          "lh": 20
+         }
+        ]
+       },
+       {
+        "t": "F",
+        "n": "Price",
+        "w": 121,
+        "h": 36,
+        "lay": "row",
+        "gap": 4,
+        "ai": "BASELINE",
+        "wfit": 1,
+        "hfit": 1,
+        "c": [
+         {
+          "t": "T",
+          "n": "$49",
+          "w": 69,
+          "h": 36,
+          "fills": [
+           {
+            "s": "#09090b"
+           }
+          ],
+          "text": "$49",
+          "size": 36,
+          "font": "Geist",
+          "fw": "SemiBold",
+          "ls": "-2%"
+         },
+         {
+          "t": "T",
+          "n": "/month",
+          "w": 48,
+          "h": 20,
+          "fills": [
+           {
+            "s": "#737373"
+           }
+          ],
+          "text": "/month",
+          "size": 14,
+          "font": "Geist",
+          "fw": "Regular",
+          "lh": 20
+         }
+        ]
+       },
+       {
+        "t": "I",
+        "n": "Button / Start free trial",
+        "w": 331,
+        "h": 36,
+        "lay": "row",
+        "just": "CENTER",
+        "ai": "CENTER",
+        "hfit": 1,
+        "c": [
+         {
+          "t": "I",
+          "n": ".button_iconnone_lg",
+          "w": 331,
+          "h": 36,
+          "lay": "row",
+          "pad": [
+           0,
+           12,
+           0,
+           12
+          ],
+          "gap": 6,
+          "just": "CENTER",
+          "ai": "CENTER",
+          "grow": 1,
+          "fills": [
+           {
+            "s": "#2863fa"
+           },
+           {
+            "grad": "GRADIENT_LINEAR",
+            "stops": [
+             {
+              "c": "#ffffff",
+              "pos": 0,
+              "o": 0.16
+             },
+             {
+              "c": "#ffffff",
+              "pos": 100,
+              "o": 0
+             }
+            ],
+            "angle": 0
+           }
+          ],
+          "stroke": [
+           {
+            "s": "#000000",
+            "o": 0.1
+           }
+          ],
+          "r": 8,
+          "fx": [
+           {
+            "shadow": [
+             0,
+             1
+            ],
+            "blur": 2,
+            "c": "#2863fa",
+            "o": 0.24
+           },
+           {
+            "e": "INNER_SHADOW"
+           }
+          ],
+          "c": [
+           {
+            "t": "T",
+            "n": "button-lg",
+            "w": 93,
+            "h": 14,
+            "fills": [
+             {
+              "s": "#ffffff"
+             }
+            ],
+            "text": "Start free trial",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Medium"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "t": "F",
+        "n": "Features",
+        "w": 331,
+        "h": 135,
+        "lay": "col",
+        "pad": [
+         24,
+         0,
+         0,
+         0
+        ],
+        "gap": 10,
+        "wfit": 1,
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ],
+        "c": [
+         {
+          "t": "F",
+          "n": "Item",
+          "w": 157,
+          "h": 20,
+          "lay": "row",
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "I",
+            "n": "Lucide / check",
+            "w": 16,
+            "h": 16,
+            "c": [
+             {
+              "t": "VECTOR",
+              "n": "Vector",
+              "w": 12,
+              "h": 8.7,
+              "fills": [
+               {
+                "s": "#09090b"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "T",
+            "n": "1M events per month",
+            "w": 133,
+            "h": 20,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "1M events per month",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Regular",
+            "lh": 20
+           }
+          ]
+         },
+         {
+          "t": "F",
+          "n": "Item",
+          "w": 156,
+          "h": 20,
+          "lay": "row",
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "I",
+            "n": "Lucide / check",
+            "w": 16,
+            "h": 16,
+            "c": [
+             {
+              "t": "VECTOR",
+              "n": "Vector",
+              "w": 12,
+              "h": 8.7,
+              "fills": [
+               {
+                "s": "#09090b"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "T",
+            "n": "Everything in Starter",
+            "w": 132,
+            "h": 20,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "Everything in Starter",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Regular",
+            "lh": 20
+           }
+          ]
+         },
+         {
+          "t": "F",
+          "n": "Item",
+          "w": 161,
+          "h": 20,
+          "lay": "row",
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "I",
+            "n": "Lucide / check",
+            "w": 16,
+            "h": 16,
+            "c": [
+             {
+              "t": "VECTOR",
+              "n": "Vector",
+              "w": 12,
+              "h": 8.7,
+              "fills": [
+               {
+                "s": "#09090b"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "T",
+            "n": "Alerts and live events",
+            "w": 137,
+            "h": 20,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "Alerts and live events",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Regular",
+            "lh": 20
+           }
+          ]
+         },
+         {
+          "t": "F",
+          "n": "Item",
+          "w": 164,
+          "h": 20,
+          "lay": "row",
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "I",
+            "n": "Lucide / check",
+            "w": 16,
+            "h": 16,
+            "c": [
+             {
+              "t": "VECTOR",
+              "n": "Vector",
+              "w": 12,
+              "h": 8.7,
+              "fills": [
+               {
+                "s": "#09090b"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "T",
+            "n": "12-month data history",
+            "w": 140,
+            "h": 20,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "12-month data history",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Regular",
+            "lh": 20
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "t": "F",
+      "n": "Plan / Scale",
+      "w": 389,
+      "h": 390,
+      "lay": "col",
+      "pad": [
+       28,
+       28,
+       28,
+       28
+      ],
+      "gap": 24,
+      "grow": 1,
+      "fills": [
+       {
+        "s": "#ffffff"
+       }
+      ],
+      "stroke": [
+       {
+        "s": "#e5e5e5"
+       }
+      ],
+      "r": 12,
+      "fx": [
+       {
+        "shadow": [
+         0,
+         1
+        ],
+        "blur": 2,
+        "c": "#000000",
+        "o": 0.05
+       }
+      ],
+      "c": [
+       {
+        "t": "F",
+        "n": "Top",
+        "w": 331,
+        "h": 52,
+        "lay": "col",
+        "gap": 8,
+        "wfit": 1,
+        "c": [
+         {
+          "t": "F",
+          "n": "Name row",
+          "w": 331,
+          "h": 24,
+          "lay": "row",
+          "just": "SPACE_BETWEEN",
+          "ai": "CENTER",
+          "c": [
+           {
+            "t": "T",
+            "n": "Scale",
+            "w": 44,
+            "h": 16,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "Scale",
+            "size": 16,
+            "font": "Geist",
+            "fw": "SemiBold"
+           }
+          ]
+         },
+         {
+          "t": "T",
+          "n": "For companies with large data needs.",
+          "w": 239,
+          "h": 20,
+          "fills": [
+           {
+            "s": "#737373"
+           }
+          ],
+          "text": "For companies with large data needs.",
+          "size": 14,
+          "font": "Geist",
+          "fw": "Regular",
+          "lh": 20
+         }
+        ]
+       },
+       {
+        "t": "F",
+        "n": "Price",
+        "w": 131,
+        "h": 36,
+        "lay": "row",
+        "gap": 4,
+        "ai": "BASELINE",
+        "wfit": 1,
+        "hfit": 1,
+        "c": [
+         {
+          "t": "T",
+          "n": "Custom",
+          "w": 131,
+          "h": 36,
+          "fills": [
+           {
+            "s": "#09090b"
+           }
+          ],
+          "text": "Custom",
+          "size": 36,
+          "font": "Geist",
+          "fw": "SemiBold",
+          "ls": "-2%"
+         }
+        ]
+       },
+       {
+        "t": "I",
+        "n": "Button / Contact sales",
+        "w": 331,
+        "h": 36,
+        "lay": "row",
+        "just": "CENTER",
+        "ai": "CENTER",
+        "hfit": 1,
+        "c": [
+         {
+          "t": "I",
+          "n": ".button_iconright_lg",
+          "w": 331,
+          "h": 36,
+          "lay": "row",
+          "pad": [
+           0,
+           12,
+           0,
+           10
+          ],
+          "gap": 6,
+          "just": "CENTER",
+          "ai": "CENTER",
+          "grow": 1,
+          "fills": [
+           {
+            "s": "#f5f5f5"
+           }
+          ],
+          "r": 8,
+          "c": [
+           {
+            "t": "T",
+            "n": "button-lg",
+            "w": 91,
+            "h": 14,
+            "fills": [
+             {
+              "s": "#171717"
+             }
+            ],
+            "text": "Contact sales",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Medium"
+           },
+           {
+            "t": "I",
+            "n": "Lucide / chevron-right",
+            "w": 16,
+            "h": 16,
+            "c": []
+           },
+           {
+            "t": "I",
+            "n": "Kbd",
+            "w": 20,
+            "h": 20,
+            "lay": "row",
+            "pad": [
+             0,
+             4,
+             0,
+             4
+            ],
+            "gap": 4,
+            "just": "CENTER",
+            "ai": "CENTER",
+            "wfit": 1,
+            "fills": [
+             {
+              "s": "#f5f5f5"
+             }
+            ],
+            "r": 8,
+            "c": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "t": "F",
+        "n": "Features",
+        "w": 331,
+        "h": 135,
+        "lay": "col",
+        "pad": [
+         24,
+         0,
+         0,
+         0
+        ],
+        "gap": 10,
+        "wfit": 1,
+        "stroke": [
+         {
+          "s": "#e5e5e5"
+         }
+        ],
+        "c": [
+         {
+          "t": "F",
+          "n": "Item",
+          "w": 132,
+          "h": 20,
+          "lay": "row",
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "I",
+            "n": "Lucide / check",
+            "w": 16,
+            "h": 16,
+            "c": [
+             {
+              "t": "VECTOR",
+              "n": "Vector",
+              "w": 12,
+              "h": 8.7,
+              "fills": [
+               {
+                "s": "#09090b"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "T",
+            "n": "Unlimited events",
+            "w": 108,
+            "h": 20,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "Unlimited events",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Regular",
+            "lh": 20
+           }
+          ]
+         },
+         {
+          "t": "F",
+          "n": "Item",
+          "w": 158,
+          "h": 20,
+          "lay": "row",
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "I",
+            "n": "Lucide / check",
+            "w": 16,
+            "h": 16,
+            "c": [
+             {
+              "t": "VECTOR",
+              "n": "Vector",
+              "w": 12,
+              "h": 8.7,
+              "fills": [
+               {
+                "s": "#09090b"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "T",
+            "n": "Everything in Growth",
+            "w": 134,
+            "h": 20,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "Everything in Growth",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Regular",
+            "lh": 20
+           }
+          ]
+         },
+         {
+          "t": "F",
+          "n": "Item",
+          "w": 129,
+          "h": 20,
+          "lay": "row",
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "I",
+            "n": "Lucide / check",
+            "w": 16,
+            "h": 16,
+            "c": [
+             {
+              "t": "VECTOR",
+              "n": "Vector",
+              "w": 12,
+              "h": 8.7,
+              "fills": [
+               {
+                "s": "#09090b"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "T",
+            "n": "Warehouse sync",
+            "w": 105,
+            "h": 20,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "Warehouse sync",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Regular",
+            "lh": 20
+           }
+          ]
+         },
+         {
+          "t": "F",
+          "n": "Item",
+          "w": 146,
+          "h": 20,
+          "lay": "row",
+          "gap": 8,
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "c": [
+           {
+            "t": "I",
+            "n": "Lucide / check",
+            "w": 16,
+            "h": 16,
+            "c": [
+             {
+              "t": "VECTOR",
+              "n": "Vector",
+              "w": 12,
+              "h": 8.7,
+              "fills": [
+               {
+                "s": "#09090b"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "t": "T",
+            "n": "SSO and audit logs",
+            "w": 122,
+            "h": 20,
+            "fills": [
+             {
+              "s": "#09090b"
+             }
+            ],
+            "text": "SSO and audit logs",
+            "size": 14,
+            "font": "Geist",
+            "fw": "Regular",
+            "lh": 20
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "cta": {
+  "t": "F",
+  "n": "Final CTA",
+  "w": 1440,
+  "h": 576,
+  "lay": "col",
+  "pad": [
+   120,
+   120,
+   150,
+   120
+  ],
+  "just": "CENTER",
+  "ai": "CENTER",
+  "wfit": 1,
+  "fills": [
+   {
+    "s": "#2863fa"
+   }
+  ],
+  "c": [
+   {
+    "t": "F",
+    "n": "Pattern",
+    "w": 1440,
+    "h": 576,
+    "c": [
+     {
+      "t": "R",
+      "n": "Gradient",
+      "w": 1440,
+      "h": 576,
+      "fills": [
+       {
+        "grad": "GRADIENT_LINEAR",
+        "stops": [
+         {
+          "c": "#ffffff",
+          "pos": 0,
+          "o": 0.1
+         },
+         {
+          "c": "#000000",
+          "pos": 100,
+          "o": 0.1
+         }
+        ],
+        "angle": 0
+       }
+      ]
+     },
+     {
+      "t": "F",
+      "n": "Traces",
+      "w": 1440,
+      "h": 560,
+      "pattern": {
+       "count": 14,
+       "sample": {
+        "t": "VECTOR",
+        "n": "Trace / outer L",
+        "w": 526,
+        "h": 383,
+        "stroke": [
+         {
+          "s": "#ffffff",
+          "o": 0.2
+         }
+        ],
+        "sw": 1.5,
+        "sa": "CENTER",
+        "r": 10
+       }
+      }
+     }
+    ]
+   },
+   {
+    "t": "F",
+    "n": "Copy",
+    "w": 540,
+    "h": 306,
+    "lay": "col",
+    "gap": 20,
+    "ai": "CENTER",
+    "wfit": 1,
+    "hfit": 1,
+    "c": [
+     {
+      "t": "T",
+      "n": "Heading",
+      "w": 453,
+      "h": 112,
+      "fills": [
+       {
+        "s": "#ffffff"
+       }
+      ],
+      "text": "Start finding answers\nin ten minutes",
+      "size": 48,
+      "font": "Geist Serif",
+      "fw": "Regular",
+      "lh": 56,
+      "ls": "-1.5%",
+      "align": "CENTER"
+     },
+     {
+      "t": "T",
+      "n": "Lead",
+      "w": 540,
+      "h": 56,
+      "fills": [
+       {
+        "s": "#ffffff",
+        "o": 0.7
+       }
+      ],
+      "text": "Connect your first source, invite your team, and see week-4 retention before lunch. Free for 14 days.",
+      "size": 18,
+      "font": "Geist",
+      "fw": "Regular",
+      "lh": 28,
+      "align": "CENTER"
+     },
+     {
+      "t": "F",
+      "n": "Gap",
+      "w": 1,
+      "h": 20
+     },
+     {
+      "t": "F",
+      "n": "Button halo",
+      "w": 197,
+      "h": 58,
+      "lay": "row",
+      "pad": [
+       6,
+       6,
+       6,
+       6
+      ],
+      "wfit": 1,
+      "hfit": 1,
+      "fills": [
+       {
+        "s": "#ffffff",
+        "o": 0.2
+       }
+      ],
+      "stroke": [
+       {
+        "s": "#ffffff",
+        "o": 0.3
+       }
+      ],
+      "r": 16,
+      "c": [
+       {
+        "t": "I",
+        "n": "Button / Start free trial",
+        "w": 183,
+        "h": 44,
+        "lay": "row",
+        "just": "CENTER",
+        "ai": "CENTER",
+        "wfit": 1,
+        "c": [
+         {
+          "t": "I",
+          "n": ".button_iconright_lg",
+          "w": 183,
+          "h": 44,
+          "lay": "row",
+          "pad": [
+           14,
+           24,
+           14,
+           28
+          ],
+          "gap": 6,
+          "just": "CENTER",
+          "ai": "CENTER",
+          "wfit": 1,
+          "hfit": 1,
+          "fills": [
+           {
+            "s": "#ffffff"
+           }
+          ],
+          "r": 10,
+          "c": [
+           {
+            "t": "T",
+            "n": "button-lg",
+            "w": 109,
+            "h": 16,
+            "fills": [
+             {
+              "s": "#2863fa"
+             }
+            ],
+            "text": "Start free trial",
+            "size": 16,
+            "font": "Geist",
+            "fw": "SemiBold"
+           },
+           {
+            "t": "I",
+            "n": "Lucide / arrow-right",
+            "w": 16,
+            "h": 16,
+            "c": []
+           },
+           {
+            "t": "I",
+            "n": "Kbd",
+            "w": 20,
+            "h": 20,
+            "lay": "row",
+            "pad": [
+             0,
+             4,
+             0,
+             4
+            ],
+            "gap": 4,
+            "just": "CENTER",
+            "ai": "CENTER",
+            "wfit": 1,
+            "fills": [
+             {
+              "s": "#f5f5f5"
+             }
+            ],
+            "r": 8,
+            "c": []
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "headerButtons": [
+  {
+   "t": "I",
+   "n": "Button / Sign in",
+   "w": 59,
+   "h": 28,
+   "lay": "row",
+   "just": "CENTER",
+   "ai": "CENTER",
+   "wfit": 1,
+   "hfit": 1,
+   "c": [
+    {
+     "t": "I",
+     "n": ".button_iconnone_sm",
+     "w": 59,
+     "h": 28,
+     "lay": "row",
+     "pad": [
+      0,
+      10,
+      0,
+      10
+     ],
+     "gap": 4,
+     "just": "CENTER",
+     "ai": "CENTER",
+     "wfit": 1,
+     "r": 8,
+     "c": [
+      {
+       "t": "T",
+       "n": "button-sm",
+       "w": 39,
+       "h": 16,
+       "fills": [
+        {
+         "s": "#09090b"
+        }
+       ],
+       "text": "Sign in",
+       "size": 12,
+       "font": "Geist",
+       "fw": "Medium",
+       "lh": 16
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "I",
+   "n": "Button / Get started",
+   "w": 84,
+   "h": 28,
+   "lay": "row",
+   "just": "CENTER",
+   "ai": "CENTER",
+   "wfit": 1,
+   "hfit": 1,
+   "c": [
+    {
+     "t": "I",
+     "n": ".button_iconnone_sm",
+     "w": 84,
+     "h": 28,
+     "lay": "row",
+     "pad": [
+      0,
+      10,
+      0,
+      10
+     ],
+     "gap": 4,
+     "just": "CENTER",
+     "ai": "CENTER",
+     "wfit": 1,
+     "fills": [
+      {
+       "s": "#2863fa"
+      },
+      {
+       "grad": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "c": "#ffffff",
+         "pos": 0,
+         "o": 0.16
+        },
+        {
+         "c": "#ffffff",
+         "pos": 100,
+         "o": 0
+        }
+       ],
+       "angle": 0
+      }
+     ],
+     "stroke": [
+      {
+       "s": "#000000",
+       "o": 0.1
+      }
+     ],
+     "r": 8,
+     "fx": [
+      {
+       "shadow": [
+        0,
+        1
+       ],
+       "blur": 2,
+       "c": "#2863fa",
+       "o": 0.24
+      },
+      {
+       "e": "INNER_SHADOW"
+      }
+     ],
+     "c": [
+      {
+       "t": "T",
+       "n": "button-sm",
+       "w": 64,
+       "h": 16,
+       "fills": [
+        {
+         "s": "#ffffff"
+        }
+       ],
+       "text": "Get started",
+       "size": 12,
+       "font": "Geist",
+       "fw": "Medium",
+       "lh": 16
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
