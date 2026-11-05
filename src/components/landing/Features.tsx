@@ -124,7 +124,7 @@ const STREAM_ROWS: Array<{
 function StreamTable() {
   return (
     <div
-      className={`absolute top-7 left-1/2 w-[420px] max-w-none -translate-x-1/2 bg-white px-6 pt-4 pb-2 ${cardShadow}`}
+      className={`absolute top-14 left-8 w-[420px] max-w-none bg-white px-6 pt-4 pb-2 ${cardShadow}`}
     >
       <div className="grid grid-cols-[76px_52px_100px_96px] gap-4 border-b border-[#e5e5e5] pb-3 text-xs font-medium tracking-[0.06em] text-[#737373]">
         <span>USER ID</span>

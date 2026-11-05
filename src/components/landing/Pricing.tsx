@@ -72,7 +72,9 @@ export function Pricing() {
             <div
               key={plan.name}
               className={`flex flex-col gap-6 rounded-xl border bg-white p-7 ${
-                plan.popular ? "border-[#2863fa]" : "border-[#e5e5e5]"
+                plan.popular
+                  ? "border-[1.5px] border-[#2863fa] shadow-[0_4px_6px_-4px_rgba(0,0,0,0.1),0_10px_15px_-3px_rgba(0,0,0,0.1)]"
+                  : "border-[#e5e5e5] shadow-[0_1px_2px_rgba(0,0,0,0.05)]"
               }`}
             >
               {/* Name + desc */}
